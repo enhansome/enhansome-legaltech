@@ -1,0 +1,1592 @@
+{
+  "items": [
+    {
+      "description": "Curated datasets of legal texts, case law, statutes, and contracts - organized by task. Most are openly available for research.",
+      "items": [],
+      "title": "Machine Learning Datasets & Corpora"
+    },
+    {
+      "description": "Libraries and scripts for scraping, parsing, and processing legal text to build datasets.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ContextGem",
+          "description": "[Open Source] Python framework for LLM-based extraction from legal and business documents with declarative concept/aspect schemas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:45:25Z",
+            "owner": "shcherbak-ai",
+            "repo": "contextgem",
+            "stars": 1975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackstone",
+          "description": "[Open Source] 🇬🇧 spaCy NLP pipeline and model for unstructured UK legal text (NER, citations).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-16T15:12:39Z",
+            "owner": "ICLRandD",
+            "repo": "Blackstone",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Juriscraper",
+          "description": "[Open Source] Python library for scraping US court websites (400+ courts, PACER).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T23:20:16Z",
+            "owner": "freelawproject",
+            "repo": "juriscraper",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eyecite",
+          "description": "[Open Source] Legal citation extraction and analysis tool by Free Law Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:27:17Z",
+            "owner": "freelawproject",
+            "repo": "eyecite",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Australian Legal Corpus Creator",
+          "description": "[Open Source] Scripts to build the open multijurisdictional corpus of Australian legislation and case law.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-26T04:39:28Z",
+            "owner": "isaacus-dev",
+            "repo": "open-australian-legal-corpus-creator",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opennyai",
+          "description": "[Open Source] End-to-end Python NLP pipeline for Indian legal documents (NER, rhetorical-role labeling, summarization).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T13:26:48Z",
+            "owner": "OpenNyAI",
+            "repo": "Opennyai",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "French Legal Case Anonymization",
+          "description": "[Open Source] NER-based pseudo-anonymization of French court decisions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-12-09T22:23:23Z",
+            "owner": "ELS-RD",
+            "repo": "anonymisation",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Workdeck",
+          "description": "[Open Source] AI-native IDE workspace for legal and document-heavy workflows — \"VS Code for lawyers.\" Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3). Features MCP agent orchestration, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, and smart clipboard. Supports air-gapped deployment with Ollama + local storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:53:22Z",
+            "owner": "zeweihan",
+            "repo": "aiworkdeck",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LegalCrawler",
+          "description": "[Open Source] Scripts to crawl and build English legal corpora from public court websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-18T09:40:20Z",
+            "owner": "iliaschalkidis",
+            "repo": "LegalCrawler",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CiteURL",
+          "description": "[Open Source] Extensible Python citation parser that turns US/UK/EU legal citations into hyperlinks; complements Eyecite with broader jurisdictional templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-20T04:27:02Z",
+            "owner": "raindrum",
+            "repo": "citeurl",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Data Extraction & Processing Tools"
+    },
+    {
+      "description": "Large text corpora and jurisdiction-wide raw data dumps for pretraining or fine-tuning legal language models.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "S2ORC (Legal Subset)",
+          "description": "[🌍 EN] - [136M+] - AllenAI's massive academic paper corpus containing deep legal reasoning/law review articles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-26T20:45:42Z",
+            "owner": "allenai",
+            "repo": "s2orc",
+            "stars": 1080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitlaw-jp",
+          "description": "[🇯🇵 JA] - [Large] - Complete Japanese legislation tracked as a Git repository, enabling diffs and historical analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T05:53:30Z",
+            "owner": "aluqas",
+            "repo": "gitlaw-jp",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open US Law",
+          "description": "[🇺🇸 EN] - [2M+] - 50-state statutory codes, the US Code, the CFR, and 52 constitutions normalized to one schema, plus the open scrapers that build it. On Hugging Face, CC BY 4.0 data / Apache-2.0 scrapers, quarterly snapshots. (Sponsor)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:26:32Z",
+            "owner": "Vaquill-AI",
+            "repo": "open-us-law",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-source-legislation",
+          "description": "[🌍 Multi] - SQL knowledge-graph format for global legislation with Python/TypeScript SDKs for LLM training and RAG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-15T01:17:01Z",
+            "owner": "spartypkp",
+            "repo": "open-source-legislation",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Pretraining Corpora & Bulk Data"
+    },
+    {
+      "description": "Datasets for predicting case outcomes, charges, or penalties from court documents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ILDC (Indian Legal Documents Corpus)",
+          "description": "[🇮🇳 India] - [EN] - [34K cases] - Court judgment prediction and explanation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-10T04:14:26Z",
+            "owner": "Exploration-Lab",
+            "repo": "CJPE",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAIL2018",
+          "description": "[🇨🇳 China] - [ZH] - [2.6M cases] - Charge, penalty, article prediction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-07T14:24:36Z",
+            "owner": "china-ai-law-challenge",
+            "repo": "CAIL2018",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Legal Judgment Prediction (LJP)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IN-Abs / UK-Abs",
+          "description": "[🇮🇳 🇬🇧] - [EN] - Abstractive and extractive summarization datasets for Indian and UK case judgments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T07:15:46Z",
+            "owner": "Law-AI",
+            "repo": "summarization",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BillSum",
+          "description": "[🇺🇸 US] - [EN] - 22K US Congressional and California bill summaries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T22:06:54Z",
+            "owner": "FiscalNote",
+            "repo": "BillSum",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-LexSum",
+          "description": "[🇺🇸 US] - [EN] - Multi-document summarization of US civil rights court cases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-15T03:28:44Z",
+            "owner": "multilexsum",
+            "repo": "dataset",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Legal Summarization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Legal AI Models & Embeddings"
+    },
+    {
+      "description": "Fine-tuned or domain-pretrained LLMs specifically for legal tasks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ChatLaw",
+          "description": "[LLaMA/Ziya] - [ZH] - [CC BY-NC] - Chinese legal LLM from Peking University; trained on 30K+ Chinese legal datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-04T15:29:26Z",
+            "owner": "PKU-YuanGroup",
+            "repo": "ChatLaw",
+            "stars": 7571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lawyer-LLaMA",
+          "description": "[LLaMA-13B] - [ZH] - PKU's continually-pretrained Chinese legal model with judicial-exam and legal-consultation SFT data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-28T09:23:35Z",
+            "owner": "AndrewZhe",
+            "repo": "lawyer-llama",
+            "stars": 1000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISC-LawLLM",
+          "description": "[Baichuan 13B] - [ZH] - [Apache 2.0] - Chinese legal assistant from Fudan; legal retrieval + reasoning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-27T07:45:58Z",
+            "owner": "FudanDISC",
+            "repo": "DISC-LawLLM",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzi.Mingcha",
+          "description": "[ChatGLM] - [ZH] - Judicial LLM from Shandong U. + China U. of Political Science & Law; statute retrieval, syllogistic reasoning, judicial dialogue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T06:24:22Z",
+            "owner": "irlab-sdu",
+            "repo": "fuzi.mingcha",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pasal.id",
+          "description": "[Claude + RAG] - [ID] - [Open] - RAG-powered access to 40,000+ Indonesian regulations via Claude AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-01T13:46:57Z",
+            "owner": "ilhamfp",
+            "repo": "pasal",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InternLM-Law",
+          "description": "[InternLM2-Chat 7B] - [ZH] - [Apache 2.0] - Shanghai AI Lab Chinese legal LLM SFT-tuned on ~1M legal examples; tops LawBench on 13/20 subtasks (COLING 2025).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-14T07:44:09Z",
+            "owner": "InternLM",
+            "repo": "InternLM-Law",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NyayaSahayak",
+          "description": "[EN/HI] - [Open] - AI legal assistant covering Indian Constitution, BNS 2023, IT Act",
+          "children": []
+        }
+      ],
+      "title": "Large Language Models (LLMs)"
+    },
+    {
+      "description": "Model Context Protocol (MCP) servers that connect AI assistants to legal data sources and workflows.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Korean Law MCP",
+          "description": "[🇰🇷 Korea] 17 MCP tools wrapping 41 Korean government legal APIs; includes citation verification, impact graph, and time-travel diff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:33:22Z",
+            "owner": "chrisryugj",
+            "repo": "korean-law-mcp",
+            "stars": 2445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yargı MCP",
+          "description": "[🇹🇷 Turkey] MCP server for Turkish legal databases (Yargıtay, Danıştay, Anayasa Mahkemesi).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:33:18Z",
+            "owner": "saidsurucu",
+            "repo": "yargi-mcp",
+            "stars": 1095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEC EDGAR MCP",
+          "description": "[🇺🇸 US] MCP for SEC EDGAR filings, financial statements, and insider-trading data — useful for securities and corporate-disclosure workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:16:12Z",
+            "owner": "stefanoamorelli",
+            "repo": "sec-edgar-mcp",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pasal MCP",
+          "description": "[🇮🇩 Indonesia] MCP + REST + web app giving AI grounded access to 40k+ Indonesian regulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-01T13:46:57Z",
+            "owner": "ilhamfp",
+            "repo": "pasal",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Taiwan Legal DB",
+          "description": "[🇹🇼 Taiwan] Taiwan Judicial Yuan judgments + national statute database via MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T13:00:07Z",
+            "owner": "lawchat-oss",
+            "repo": "mcp-taiwan-legal-db",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adeu (Agentic DOCX Redlining Engine)",
+          "description": "MCP Server enabling LLMs to inject native Track Changes and Comments into Word documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:15:34Z",
+            "owner": "dealfluence",
+            "repo": "adeu",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ayunis-legal-mcp",
+          "description": "[🇩🇪 Germany] MCP server exposing German legal codes (Gesetze-im-Internet).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T20:10:59Z",
+            "owner": "ayunis-core",
+            "repo": "ayunis-legal-mcp",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mahender22/legal-mcp",
+          "description": "[🇺🇸 US] 18 MCP tools across CourtListener case law (4M+ opinions, 400+ US courts), PACER federal filings, and Clio practice-management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T04:47:43Z",
+            "owner": "Mahender22",
+            "repo": "legal-mcp",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-server-legifrance",
+          "description": "[🇫🇷 France] MCP that wraps the official Légifrance/PISTE API for searching French statutes, codes, and judicial jurisprudence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-29T15:06:26Z",
+            "owner": "pylegifrance",
+            "repo": "mcp-server-legifrance",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Master Claude for Legal",
+          "description": "[Open Source] - [MIT] - Skill pack for legal teams using Claude with MCP connectors. 10 reference docs (privilege, verification, long documents, practice areas), 5 starter skills (NDA triage, version diff, meeting brief, citation verifier, status synthesis), 3 firm templates. Includes the source Anthropic legal-webinar transcript and 51-question dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-18T08:07:35Z",
+            "owner": "sboghossian",
+            "repo": "master-claude-for-legal",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-cerebra-legal-server",
+          "description": "MCP providing structured legal-reasoning tools (, follow-up, completion) with domain templates for contract, consumer-protection, and French procurement analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-24T11:31:52Z",
+            "owner": "yoda-digital",
+            "repo": "mcp-cerebra-legal-server",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auslaw-mcp",
+          "description": "[🇦🇺 🇳🇿 AU/NZ] MCP server searching AustLII case law and legislation with OCR for scanned PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:20:11Z",
+            "owner": "russellbrenner",
+            "repo": "jurisd",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emilie",
+          "description": "[🇨🇭 Switzerland] Swiss sovereign legal AI; Mike fork extended with MCP client and local Apertus model support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-04T15:32:15Z",
+            "owner": "veronica-builds",
+            "repo": "emilie",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agentic-ops/legal-mcp",
+          "description": "Comprehensive MCP server for legal workflows. Integrates AI assistants with legal databases and case management systems (Clio, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T22:41:16Z",
+            "owner": "agentic-ops",
+            "repo": "legal-mcp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "droit-francais-mcp",
+          "description": "[🇫🇷 France] Unified MCP over Légifrance (legislation/codes/decrees) plus JudiLibre (case law) with PISTE-auth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T21:22:12Z",
+            "owner": "jmtanguy",
+            "repo": "droit-francais-mcp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EU Compliance MCP",
+          "description": "[🇪🇺 EU] MCP exposing 61 EU regulations (GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS 2.0, CRA) with 4,095 articles and cross-regulation comparison.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T10:34:20Z",
+            "owner": "Ansvar-Systems",
+            "repo": "EU_compliance_MCP",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "law-scrapper-mcp",
+          "description": "[🇵🇱 Poland] MCP server for Polish legal acts via the Sejm API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:59:52Z",
+            "owner": "numikel",
+            "repo": "law-scrapper-mcp",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CourtListener MCP (Travis-Prall)",
+          "description": "MCP Server for accessing CourtListener case data, court opinions, and eCFR federal regulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T01:32:15Z",
+            "owner": "Travis-Prall",
+            "repo": "court-listener-mcp",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "direito-familiar-imobiliario",
+          "description": "[🇧🇷 Brazil] [Claude Code Skill] [pt-BR] Civil-law skill orienting laypeople through real estate regularization (usucapião, REURB, matrícula), divorce (5 marital regimes, partilha, meação), and inheritance (inventário, ITCMD). Legislation current to May 2026 — includes Resolução CNJ 571/2024, Provimento CNJ 149/2023, LC 227/2026 (progressive ITCMD), Lei 14.711/2023 (Marco Legal das Garantias). Glossary (150+ terms), document checklists, interactive cost calculator, 75+ targeted questions for the attorney. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T02:26:24Z",
+            "owner": "maiconfuhr",
+            "repo": "direito-familiar-imobiliario",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CourtListener MCP (DefendTheDisabled)",
+          "description": "Connects AI agents to CourtListener with semantic search, hybrid search, and citation verification to mitigate hallucination.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T19:01:03Z",
+            "owner": "DefendTheDisabled",
+            "repo": "courtlistener-mcp",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vaquill AI MCP",
+          "description": "MCP server that connects Claude / Cursor / Windsurf / VS Code to 8M+ US federal and state court opinions plus the US Code and CFR. (Sponsor)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T10:55:56Z",
+            "owner": "Vaquill-AI",
+            "repo": "vaquill-mcp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Suite",
+          "description": "[Self-Hosted] Local-first legal document intelligence platform exposing 14 MCP tools (semantic and keyword/hybrid search, OCR, exhibit image retrieval, and case-knowledge queries); watches case-file directories and indexes PDFs into a local vector store, running entirely on-premises with no external API calls. Source-available under the Polyform Noncommercial license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:38:46Z",
+            "owner": "alperu",
+            "repo": "soundsuite",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CourtListener MCP (khizar-anjum)",
+          "description": "MCP server built for searching cases by natural language legal problems across 3,352 U.S. courts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-08T18:22:20Z",
+            "owner": "khizar-anjum",
+            "repo": "courtlistener-mcp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAOS MCP",
+          "description": "[🇵🇱 Poland] MCP server for Polish common and Supreme Court case law via the SAOS API, with verifiable citations. Related connectors from the same maintainer cover Polish administrative courts (NSA/CBOSA), procurement rulings (KIO), the company register (KRS), and tax interpretations (EUREKA). MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T12:25:17Z",
+            "owner": "matematicsolutions",
+            "repo": "mcp-saos",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "compare-cli-mcp",
+          "description": "[Open Source] Contract version diff / redline with a substantive-drift gate, exposed as an MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T06:13:12Z",
+            "owner": "DrBaher",
+            "repo": "compare-cli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brazilian Law MCP",
+          "description": "[🇧🇷 Brazil] MCP server over 8 keyless open-data APIs for Brazilian law: Câmara and Senado bills and statutes, DataJud (CNJ), STJ and TST case law (3.75M labor-court rulings), and TCU / CARF administrative decisions, with verifiable citations. Apache-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T08:26:28Z",
+            "owner": "matematicsolutions",
+            "repo": "br-eli-mcp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EUR-Lex SPARQL MCP",
+          "description": "[🇪🇺 EU] MCP server querying the EU Publications Office SPARQL endpoint (EUR-Lex / Cellar) live: EU legislation plus 57k+ CJEU rulings, with CELEX and ECLI identifiers on every citation. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T10:08:30Z",
+            "owner": "matematicsolutions",
+            "repo": "mcp-eu-sparql",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "French Law MCP",
+          "description": "[🇫🇷 France] MCP exposing 3,958 French statutes (Code civil, Code pénal, Code du travail, Code de commerce, Loi I&L) verified against official sources.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T03:56:04Z",
+            "owner": "Ansvar-Systems",
+            "repo": "French-law-mcp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FilingFirehose MCP",
+          "description": "[🇺🇸 US] MCP + REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3) with red-flag risk scoring on top — going-concern, restatement, cyber (Item 1.05), officer departure, dilution. Companion open-source classifier at buried-events-parser (MIT). Useful for continuous disclosure monitoring in M&A due diligence and securities-litigation workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T01:50:36Z",
+            "owner": "jaablon",
+            "repo": "buried-events-parser",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sign-cli",
+          "description": "[Open Source] Offline PAdES e-signature MCP server: agents can request, place, sign, and verify PDFs locally, with signing gated behind explicit consent tokens. Cryptographic verification + hash-chained audit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T14:56:51Z",
+            "owner": "DrBaher",
+            "repo": "sign-cli",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contract-ops-mcp",
+          "description": "[Open Source] One MCP server exposing nine local-first contract CLIs (extract, draft, lint, compare, NDA review, convert, the vaults, and human-gated signing) as agent tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-16T07:51:38Z",
+            "owner": "DrBaher",
+            "repo": "contract-ops-mcp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EU Compliance MCP (offline)",
+          "description": "[🇪🇺 EU] Offline MCP corpus of EU law (GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA): full text in a local SQLite FTS5 index, verbatim retrieval, no LLM in the loop; runs air-gapped. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T14:32:39Z",
+            "owner": "matematicsolutions",
+            "repo": "mcp-eu-compliance",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSOAI Legacy Bridges",
+          "description": "[🇪🇺 EU] [Open Source] Governed-MCP bridges that parse legacy-system payloads (COBOL, ISO-20022, HL7, SAP, SCADA) and check each action against EU AI Act, DORA, NIS2 and HIPAA, emitting an Ed25519-signed, offline-verifiable NIST OSCAL audit package (Article-12 evidence). 22 bridges plus a signed Layer-0 package validated under compliance-trestle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T05:28:51Z",
+            "owner": "CSOAI-ORG",
+            "repo": "cobol-bridge-mcp",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "MCP Servers for Legal"
+    },
+    {
+      "description": "Agent skills — portable instruction sets that load into AI coding agents (Claude Code, Cursor, Codex, and other agentic IDEs) to give them domain expertise for legal work.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "commercial-legal-pl",
+          "description": "[🇵🇱 Poland] Skill for drafting and reviewing Polish-law B2B, IP, and IT contracts; ships a clause library and doctrinal knowledge base, with consistency checks for § / ust. / pkt cross-references. Works with Claude Code, Cursor, Codex, and other agent IDEs. Apache 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T13:19:19Z",
+            "owner": "apiotrowski-afk",
+            "repo": "commercial-legal-pl",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-matematic-skills-pl",
+          "description": "[🇵🇱 Poland] 41 legal-AI skills in 8 Claude Code / Cowork bundles: LLM-output verification (citation grounding against SAOS/EUR-Lex sources), Polish and EU case-law research, DOCX redlining, and an AI Act audit bundle. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T06:37:12Z",
+            "owner": "matematicsolutions",
+            "repo": "awesome-matematic-skills-pl",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Agent Skills"
+    },
+    {
+      "description": "Comprehensive platforms that handle multiple functions across the legal workflow (research, drafting, review, and matter management).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mike",
+          "description": "[Open Source] Legal document assistant (Next.js + Express + Supabase + S3/R2) that lets users chat with uploaded documents using Anthropic, Gemini, or OpenAI models; BYOK per user. Hosted at mikeoss.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:21:05Z",
+            "owner": "Open-Legal-Products",
+            "repo": "mike",
+            "stars": 4112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CourtListener (source)",
+          "description": "[Open Source] Django source for the largest open US court-data archive (RECAP, opinions, oral arguments, judges) maintained by Free Law Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:17:24Z",
+            "owner": "freelawproject",
+            "repo": "courtlistener",
+            "stars": 988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dd-agents",
+          "description": "[Open Source] M&A due diligence platform orchestrating 13 AI agents (Legal, Finance, Commercial, ProductTech, Cybersecurity, HR, Tax, Regulatory, ESG + Judge, Red Flag Scanner, Executive Synthesis, Acquirer Intelligence) across a 38-step pipeline. Interactive chat mode with 14 MCP tools for citation verification, cross-contract search, and document generation. Neurosymbolic cross-domain analysis routes findings between domains via deterministic rules. Apache 2.0, .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T06:34:31Z",
+            "owner": "zoharbabin",
+            "repo": "due-diligence-agents",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doc.haus",
+          "description": "[Open Source] Self-hostable legal AI agent built as a fork of OpenCode; documents stay on the user's machine, with matter-scoped private workspaces, cited document Q&A, and tracked-change DOCX redlines that open in Word.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-13T00:29:41Z",
+            "owner": "sure-scale",
+            "repo": "doc-haus",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suzie Law",
+          "description": "[Open Source] Self-hostable Harvey alternative built on Team Suzie: chat assistant (\"Counsel\"), 12 practice-area personas, 160+ agentic workflows, document Q&A with citations, tracked-change redlines, DOCX drafting, and unified legal research across 19 jurisdictions (US, UK, EU, FR, DE, IN, AU, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T10:32:34Z",
+            "owner": "firelex",
+            "repo": "suzielaw",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legal Document Chat",
+          "description": "[Open Source] Self-hosted document chat for attorneys that parses legal PDFs and answers questions using local open-source LLMs (Ollama), with page- and span-level citations mechanically verified against the source; runs fully offline (loopback-only, no cloud calls) on FastAPI + LanceDB (MIT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T05:09:42Z",
+            "owner": "janderswag",
+            "repo": "docuchat.app",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patron",
+          "description": "[🇵🇱 Poland] [Open Source] Self-hosted AI agent for law firms; hard fork of Mike extended with a hash-chained audit trail (EU AI Act art. 12 record-keeping), bring-your-own-model, 9 language editions, and MCP connectors for Polish and EU primary law. AGPL-3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T01:45:18Z",
+            "owner": "matematicsolutions",
+            "repo": "patron",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Full-Stack Legal Platforms & Suites"
+    },
+    {
+      "description": "Browser-based platforms and search engines for case law, statutes, and dockets.",
+      "items": [],
+      "title": "Legal Research Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open / Free Access (By Jurisdiction)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LawGlance",
+          "description": "[Open Source] Free RAG-based AI legal assistant with multi-jurisdictional knowledge bases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-07T11:51:55Z",
+            "owner": "lawglance",
+            "repo": "lawglance",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OLAW (Harvard LIL)",
+          "description": "[Open Source] Tool-based RAG workbench from Harvard Library Innovation Lab for legal AI UX research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-29T21:07:56Z",
+            "owner": "harvard-lil",
+            "repo": "olaw",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legal-tech-chat",
+          "description": "[Open Source] Reference pipeline: CUAD extraction → Neo4j knowledge graph → LangGraph agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-03T23:27:02Z",
+            "owner": "tomasonjo-labs",
+            "repo": "legal-tech-chat",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Justicio",
+          "description": "[🇪🇸 Spain] RAG assistant over the Boletín Oficial del Estado (BOE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-17T09:14:50Z",
+            "owner": "bukosabino",
+            "repo": "justicio",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphRAG Legal Cases",
+          "description": "[Open Source] Legal-research copilot reference architecture using GraphRAG on PostgreSQL (Azure Samples).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-06T04:27:00Z",
+            "owner": "Azure-Samples",
+            "repo": "graphrag-legalcases-postgres",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lex (i.AI)",
+          "description": "[🇬🇧 UK] Open UK legal API for AI agents and researchers from the UK Government's Incubator for AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T01:59:00Z",
+            "owner": "i-dot-ai",
+            "repo": "lex",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Open-Source AI Research Tools"
+    },
+    {
+      "description": "Software for generating, assembling, and reviewing legal documents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Accord Project Template Archive",
+          "description": "[Open Source] Smart legal contracts and templating system (Cicero / Concerto).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T09:06:46Z",
+            "owner": "accordproject",
+            "repo": "template-archive",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adeu",
+          "description": "[Open Source] Agentic DOCX Redlining Engine for Word document Track Changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:15:34Z",
+            "owner": "dealfluence",
+            "repo": "adeu",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suffolk LIT Lab Assembly Line",
+          "description": "[Open Source] Toolkit for Massachusetts court forms; reusable pattern for any jurisdiction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:45:12Z",
+            "owner": "SuffolkLITLab",
+            "repo": "docassemble-AssemblyLine",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vaquill AI for Word",
+          "description": "[Open Source] Microsoft Word task-pane add-in for contract review, grounded redlining as native tracked changes, drafting, and US legal research. A community build runs standalone on your own OpenAI or Anthropic key. Apache-2.0. (Sponsor)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T07:32:16Z",
+            "owner": "Vaquill-AI",
+            "repo": "ms-word-addin",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-agreements",
+          "description": "[Open Source] CommonAccord: legal documents as structured, linkable data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-07T06:53:42Z",
+            "owner": "CommonAccord",
+            "repo": "Cmacc-Org",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deslop",
+          "description": "[Open Source] Portable AI agent skill that rewrites legalese into plain English while preserving binding terms of art.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-25T16:27:30Z",
+            "owner": "fayerman-source",
+            "repo": "deslop",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vaquill for Google Docs",
+          "description": "[Open Source] Google Docs sidebar add-on (Svelte 5 + Apps Script) for contract review, clause drafting and rewrite, and grounded chat, with native tracked-change redlines. Apache-2.0. (Sponsor)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-10T10:58:03Z",
+            "owner": "Vaquill-AI",
+            "repo": "google-docs-addon",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Document Automation & Drafting"
+    },
+    {
+      "description": "Platforms for managing contracts from creation through execution, obligations, and renewal.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wraft",
+          "description": "[Open Source] Document lifecycle management with version control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-07-04T08:33:24Z",
+            "owner": "wraft",
+            "repo": "wraft",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legal-redline-tools",
+          "description": "[Open Source] Generates tracked-changes Word docs and redline PDFs from AI contract reviews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T20:07:41Z",
+            "owner": "evolsb",
+            "repo": "legal-redline-tools",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contract-review-agent",
+          "description": "[Open Source] Local-first AI agent that turns contracts into clause-level analysis with tracked-change DOCX redlines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T22:52:29Z",
+            "owner": "lowtidebuild",
+            "repo": "contract-review-agent",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Contract Lifecycle Management (CLM)"
+    },
+    {
+      "description": "Platforms handling digital execution of documents and Remote Online Notarization (RON).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSign",
+          "description": "[Open Source] Free open-source DocuSign alternative (Parse Server + React); 6.3k+ stars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T11:49:14Z",
+            "owner": "OpenSignLabs",
+            "repo": "OpenSign",
+            "stars": 6807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sign-cli",
+          "description": "[Open Source] Fully-offline PAdES e-signature CLI + MCP server with cryptographic verification and a hash-chained audit trail. A self-hosted, local-first DocuSign alternative for developers and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T14:56:51Z",
+            "owner": "DrBaher",
+            "repo": "sign-cli",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Notarization & E-Signature"
+    },
+    {
+      "description": "Resources for evaluating AI and NLP systems on legal tasks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LegalBench",
+          "description": "162-task benchmark for English legal reasoning in LLMs. Live leaderboard maintained at vals.ai.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:23:35Z",
+            "owner": "HazyResearch",
+            "repo": "legalbench",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LawBench",
+          "description": "20-task Chinese legal benchmark evaluating LLMs across three cognitive levels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-13T06:42:45Z",
+            "owner": "open-compass",
+            "repo": "LawBench",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maastrichtlawtech/awesome-legal-nlp",
+          "description": "Curated list of Legal NLP resources, models, datasets, and papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-14T08:56:41Z",
+            "owner": "maastrichtlawtech",
+            "repo": "awesome-legal-nlp",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LegalBench-RAG",
+          "description": "First retrieval benchmark for legal RAG: 6,858 expert-annotated query/span pairs over 79M characters of NDAs, M&A agreements, commercial contracts, and privacy policies (arXiv:2408.10343).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T22:34:54Z",
+            "owner": "zeroentropy-ai",
+            "repo": "legalbenchrag",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prinzbench",
+          "description": "Benchmark ranking LLMs on legal research and obscure-information retrieval.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-18T22:14:04Z",
+            "owner": "prinz-ai",
+            "repo": "prinzbench",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexEval",
+          "description": "[🇨🇳 ZH] Comprehensive Chinese legal LLM benchmark: 14,150 questions across 23 tasks covering memorization, understanding, application, and ethics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T14:34:34Z",
+            "owner": "CSHaitao",
+            "repo": "LexEval",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LRAGE",
+          "description": "Framework for evaluating RAG pipelines specifically adapted for the legal domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T07:19:55Z",
+            "owner": "hoorangyee",
+            "repo": "LRAGE",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LegalAgentBench",
+          "description": "LLM-agent benchmark in the Chinese legal domain: 17 real-world corpora, 37 tools, 300 annotated multi-hop reasoning + writing tasks (2024).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T10:03:56Z",
+            "owner": "CSHaitao",
+            "repo": "LegalAgentBench",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLEB (source)",
+          "description": "Evaluation code for the multidomain MLEB leaderboard across 6 jurisdictions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T00:06:07Z",
+            "owner": "isaacus-dev",
+            "repo": "mleb",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEXam",
+          "description": "[ICLR 2026] Bilingual EN/DE law-school exam benchmark: 7,537 questions from 340 exams across 116 courses, mixing IRAC reasoning and MCQs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T11:40:24Z",
+            "owner": "LEXam-Benchmark",
+            "repo": "LEXam",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Legal-Answer Benchmark",
+          "description": "[🇺🇸 US] Reproducible benchmark of US legal-answer quality: a committed question set, a standard-library scorer, and deterministic metrics (must-include accuracy, citation-support rate) anyone can rerun. Data CC BY 4.0, code MIT. (Sponsor)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T06:00:09Z",
+            "owner": "Vaquill-AI",
+            "repo": "open-legal-answer-benchmark",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Benchmarks & Evaluation"
+    },
+    {
+      "description": "Structured vocabularies, ontologies, and knowledge graphs for representing legal concepts, relationships, and document structure.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Liquid Legal Institute — Legal Ontologies Registry",
+          "description": "Curated, actively-maintained index of legal ontologies, schemas, and vocabularies (CC-BY-4.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-30T19:36:57Z",
+            "owner": "Liquid-Legal-Institute",
+            "repo": "Legal-Ontologies",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LKIF-Core",
+          "description": "Legal Knowledge Interchange Format; OWL ontology for basic legal concepts (norms, agents, documents, time). Foundation for many legal knowledge systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-23T16:24:34Z",
+            "owner": "RinkeHoekstra",
+            "repo": "lkif-core",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Legal Ontologies & Knowledge Graphs"
+    },
+    {
+      "description": "Funding, incubators, regulatory sandboxes, and court-modernization programs that shape where legaltech gets built and adopted.",
+      "items": [],
+      "title": "Legaltech Ecosystem Infrastructure"
+    },
+    {
+      "description": "Stay current with the legaltech ecosystem.",
+      "items": [],
+      "title": "Communities, Conferences & Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sindresorhus/awesome",
+          "description": "The original meta awesome list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maastrichtlawtech/awesome-legal-nlp",
+          "description": "Legal NLP papers, models, and datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-14T08:56:41Z",
+            "owner": "maastrichtlawtech",
+            "repo": "awesome-legal-nlp",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeryi-Sun/LLM-and-Law",
+          "description": "Continually-updated paper list on LLMs applied to law.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T12:05:14Z",
+            "owner": "Jeryi-Sun",
+            "repo": "LLM-and-Law",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openlegaldata/awesome-legal-data",
+          "description": "Curated collection of legal text-processing datasets and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T10:15:10Z",
+            "owner": "openlegaldata",
+            "repo": "awesome-legal-data",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-compliance",
+          "description": "Compliance-related awesome lists.",
+          "children": []
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "China — AI Compliance & Data Protection"
+    },
+    {
+      "description": "Entries that were previously listed but have since been archived, sunset, acquired-and-shut-down, or otherwise stopped being maintained. Kept visible so readers don't rediscover dead links and so the history of the space is preserved. An entry moves here (rather than getting deleted) when the upstream repo is GitHub-archived, the company shuts down or the product is discontinued, or there has been no meaningful activity for 2+ years. Include a short note on what happened and, where useful, a pointer to a successor.\nNo entries yet.",
+      "items": [],
+      "title": "Deprecated / Archived"
+    },
+    {
+      "description": "Contributions are welcome! Please read the contribution guidelines before submitting a pull request.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:32.914Z",
+    "original_repository": "Vaquill-AI/awesome-legaltech",
+    "original_repository_sha": "78d43fe8ae6f853fdba60d845184be79dcf51d73",
+    "enhanced_repository": "enhansome/enhansome-legaltech",
+    "enhanced_repository_description": null,
+    "title": "Awesome Legaltech with stars"
+  }
+}
