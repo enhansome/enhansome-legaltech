@@ -19,7 +19,7 @@
             "last_commit": "2026-07-28T20:45:25Z",
             "owner": "shcherbak-ai",
             "repo": "contextgem",
-            "stars": 1975
+            "stars": 1976
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-12T23:27:17Z",
             "owner": "freelawproject",
             "repo": "eyecite",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-12T02:53:22Z",
             "owner": "zeweihan",
             "repo": "aiworkdeck",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2026-08-12T09:33:22Z",
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2445
+            "stars": 2446
           }
         },
         {
@@ -909,7 +909,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:21:05Z",
+            "last_commit": "2026-08-13T05:23:38Z",
             "owner": "Open-Legal-Products",
             "repo": "mike",
             "stars": 4112
@@ -1169,7 +1169,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-07T06:53:42Z",
+            "last_commit": "2026-08-13T07:32:51Z",
             "owner": "CommonAccord",
             "repo": "Cmacc-Org",
             "stars": 48
@@ -1268,7 +1268,7 @@
             "last_commit": "2026-08-11T11:49:14Z",
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6807
+            "stars": 6809
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-03-30T05:23:35Z",
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 621
+            "stars": 622
           }
         },
         {
@@ -1506,7 +1506,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495060
+            "stars": 495126
           }
         },
         {
@@ -1582,7 +1582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:32.914Z",
+    "last_updated": "2026-08-13T07:58:38.986Z",
     "original_repository": "Vaquill-AI/awesome-legaltech",
     "original_repository_sha": "78d43fe8ae6f853fdba60d845184be79dcf51d73",
     "enhanced_repository": "enhansome/enhansome-legaltech",
