@@ -128,7 +128,7 @@
                 "last_commit": "2024-07-16T15:12:39Z",
                 "owner": "ICLRandD",
                 "repo": "Blackstone",
-                "stars": 696
+                "stars": 695
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-19T23:16:02Z",
                 "owner": "freelawproject",
                 "repo": "juriscraper",
-                "stars": 623
+                "stars": 625
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-14T17:36:43Z",
                 "owner": "freelawproject",
                 "repo": "eyecite",
-                "stars": 270
+                "stars": 271
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-04-01T13:26:48Z",
                 "owner": "OpenNyAI",
                 "repo": "Opennyai",
-                "stars": 100
+                "stars": 101
               }
             },
             {
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 1138989235,
                 "language": "Java",
-                "last_commit": "2026-08-20T07:06:37Z",
+                "last_commit": "2026-08-21T06:53:14Z",
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
                 "stars": 76
@@ -270,7 +270,7 @@
                 "last_commit": "2024-04-26T20:45:42Z",
                 "owner": "allenai",
                 "repo": "s2orc",
-                "stars": 1081
+                "stars": 1080
               }
             },
             {
@@ -374,7 +374,7 @@
                 "last_commit": "2022-11-09T07:15:46Z",
                 "owner": "Law-AI",
                 "repo": "summarization",
-                "stars": 225
+                "stars": 226
               }
             },
             {
@@ -530,10 +530,10 @@
             "archived": false,
             "id": 1119492821,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:30:15Z",
+            "last_commit": "2026-08-20T07:50:14Z",
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2486
+            "stars": 2489
           }
         },
         {
@@ -560,7 +560,7 @@
             "archived": false,
             "id": 958733763,
             "language": "Python",
-            "last_commit": "2026-08-12T20:16:12Z",
+            "last_commit": "2026-08-20T19:13:17Z",
             "owner": "stefanoamorelli",
             "repo": "sec-edgar-mcp",
             "stars": 350
@@ -638,7 +638,7 @@
             "last_commit": "2026-06-19T04:47:43Z",
             "owner": "Mahender22",
             "repo": "legal-mcp",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -703,21 +703,6 @@
         },
         {
           "node_type": "item",
-          "title": "agentic-ops/legal-mcp",
-          "description": "Comprehensive MCP server for legal workflows. Integrates AI assistants with legal databases and case management systems (Clio, etc.).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1015204723,
-            "language": "Python",
-            "last_commit": "2026-07-17T22:41:16Z",
-            "owner": "agentic-ops",
-            "repo": "legal-mcp",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Emilie",
           "description": "[🇨🇭 Switzerland] Swiss sovereign legal AI; Mike fork extended with MCP client and local Apertus model support.",
           "children": [],
@@ -728,6 +713,21 @@
             "last_commit": "2026-05-04T15:32:15Z",
             "owner": "veronica-builds",
             "repo": "emilie",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agentic-ops/legal-mcp",
+          "description": "Comprehensive MCP server for legal workflows. Integrates AI assistants with legal databases and case management systems (Clio, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1015204723,
+            "language": "Python",
+            "last_commit": "2026-07-17T22:41:16Z",
+            "owner": "agentic-ops",
+            "repo": "legal-mcp",
             "stars": 31
           }
         },
@@ -845,7 +845,7 @@
             "archived": false,
             "id": 1205079484,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T16:07:38Z",
+            "last_commit": "2026-08-20T18:03:54Z",
             "owner": "alperu",
             "repo": "soundsuite",
             "stars": 3
@@ -1031,10 +1031,10 @@
             "archived": false,
             "id": 1250569639,
             "language": "Python",
-            "last_commit": "2026-08-19T21:51:52Z",
+            "last_commit": "2026-08-20T19:08:20Z",
             "owner": "apiotrowski-afk",
             "repo": "commercial-legal-pl",
-            "stars": 154
+            "stars": 155
           }
         },
         {
@@ -1067,10 +1067,10 @@
             "archived": false,
             "id": 1224854794,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T05:59:17Z",
+            "last_commit": "2026-08-21T06:29:36Z",
             "owner": "Open-Legal-Products",
             "repo": "mike",
-            "stars": 4138
+            "stars": 4141
           }
         },
         {
@@ -1082,10 +1082,10 @@
             "archived": false,
             "id": 22257580,
             "language": "Python",
-            "last_commit": "2026-08-20T04:37:07Z",
+            "last_commit": "2026-08-21T05:15:54Z",
             "owner": "freelawproject",
             "repo": "courtlistener",
-            "stars": 993
+            "stars": 994
           }
         },
         {
@@ -1145,7 +1145,7 @@
             "last_commit": "2026-07-22T05:09:42Z",
             "owner": "janderswag",
             "repo": "docuchat.app",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -1160,7 +1160,7 @@
             "last_commit": "2026-08-18T19:46:15Z",
             "owner": "matematicsolutions",
             "repo": "patron",
-            "stars": 10
+            "stars": 11
           }
         }
       ],
@@ -1326,7 +1326,7 @@
             "archived": false,
             "id": 323679025,
             "language": "Python",
-            "last_commit": "2026-08-20T02:03:07Z",
+            "last_commit": "2026-08-20T15:26:07Z",
             "owner": "SuffolkLITLab",
             "repo": "docassemble-AssemblyLine",
             "stars": 65
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-07-04T08:33:24Z",
             "owner": "wraft",
             "repo": "wraft",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -1446,7 +1446,7 @@
             "last_commit": "2026-08-19T09:59:54Z",
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6882
+            "stars": 6889
           }
         },
         {
@@ -1482,7 +1482,7 @@
             "last_commit": "2026-03-30T05:23:35Z",
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 626
+            "stars": 625
           }
         },
         {
@@ -1497,7 +1497,7 @@
             "last_commit": "2023-11-13T06:42:45Z",
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 447
+            "stars": 448
           }
         },
         {
@@ -1689,7 +1689,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497927
+            "stars": 498383
           }
         },
         {
@@ -1716,7 +1716,7 @@
             "archived": false,
             "id": 614464281,
             "language": null,
-            "last_commit": "2026-08-14T12:05:28Z",
+            "last_commit": "2026-08-20T12:06:04Z",
             "owner": "Jeryi-Sun",
             "repo": "LLM-and-Law",
             "stars": 327
@@ -1742,7 +1742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:12:31.209Z",
+    "last_updated": "2026-08-21T07:13:56.247Z",
     "original_repository": "Vaquill-AI/awesome-legaltech",
     "original_repository_id": 1179502630,
     "original_repository_sha": "78d43fe8ae6f853fdba60d845184be79dcf51d73",
