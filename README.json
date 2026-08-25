@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-13T15:57:23Z",
                 "owner": "shcherbak-ai",
                 "repo": "contextgem",
-                "stars": 1990
+                "stars": 1991
               }
             },
             {
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 1138989235,
                 "language": "Java",
-                "last_commit": "2026-08-25T05:46:05Z",
+                "last_commit": "2026-08-25T07:14:20Z",
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
                 "stars": 79
@@ -1200,7 +1200,7 @@
             "archived": false,
             "id": 22257580,
             "language": "Python",
-            "last_commit": "2026-08-25T06:00:50Z",
+            "last_commit": "2026-08-25T06:29:07Z",
             "owner": "freelawproject",
             "repo": "courtlistener",
             "stars": 999
@@ -1849,7 +1849,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499706
+            "stars": 499716
           }
         },
         {
@@ -1902,7 +1902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:10.647Z",
+    "last_updated": "2026-08-25T07:14:58.858Z",
     "original_repository": "Vaquill-AI/awesome-legaltech",
     "original_repository_id": 1179502630,
     "original_repository_sha": "78d43fe8ae6f853fdba60d845184be79dcf51d73",

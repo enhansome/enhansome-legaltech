@@ -111,7 +111,7 @@ Curated datasets of legal texts, case law, statutes, and contracts - organized b
 
 Libraries and scripts for scraping, parsing, and processing legal text to build datasets.
 
-* [ContextGem](https://github.com/shcherbak-ai/contextgem) ⭐ 1,990 | 🐛 0 | 🌐 Python | 📅 2026-08-13 - **\[Open Source]** Python framework for LLM-based extraction from legal and business documents with declarative concept/aspect schemas.
+* [ContextGem](https://github.com/shcherbak-ai/contextgem) ⭐ 1,991 | 🐛 0 | 🌐 Python | 📅 2026-08-13 - **\[Open Source]** Python framework for LLM-based extraction from legal and business documents with declarative concept/aspect schemas.
 * [Blackstone](https://github.com/ICLRandD/Blackstone) ⭐ 696 | 🐛 13 | 🌐 Python | 📅 2024-07-16 - **\[Open Source]** 🇬🇧 spaCy NLP pipeline and model for unstructured UK legal text (NER, citations).
 * [Juriscraper](https://github.com/freelawproject/juriscraper) ⭐ 627 | 🐛 257 | 🌐 HTML | 📅 2026-08-24 - **\[Open Source]** Python library for scraping US court websites (400+ courts, PACER).
 * [Eyecite](https://github.com/freelawproject/eyecite) ⭐ 271 | 🐛 65 | 🌐 Python | 📅 2026-08-14 - **\[Open Source]** Legal citation extraction and analysis tool by Free Law Project.
@@ -206,7 +206,7 @@ Datasets for predicting case outcomes, charges, or penalties from court document
 Fine-tuned or domain-pretrained LLMs specifically for legal tasks.
 
 * [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) ⭐ 7,583 | 🐛 65 | 📅 2025-01-04 - **\[LLaMA/Ziya]** - **\[ZH]** - **\[CC BY-NC]** - Chinese legal LLM from Peking University; trained on 30K+ Chinese legal datasets
-* [Lawyer-LLaMA](https://github.com/AndrewZhe/lawyer-llama) ⭐ 1,000 | 🐛 34 | 🌐 Python | 📅 2024-08-28 - **\[LLaMA-13B]** - **\[ZH]** - PKU's continually-pretrained Chinese legal model with judicial-exam and legal-consultation SFT data.
+* [Lawyer-LLaMA](https://github.com/AndrewZhe/lawyer-llama) ⭐ 1,000 | 🐛 35 | 🌐 Python | 📅 2024-08-28 - **\[LLaMA-13B]** - **\[ZH]** - PKU's continually-pretrained Chinese legal model with judicial-exam and legal-consultation SFT data.
 * [DISC-LawLLM](https://github.com/FudanDISC/DISC-LawLLM) ⭐ 949 | 🐛 31 | 🌐 Python | 📅 2025-05-27 - **\[Baichuan 13B]** - **\[ZH]** - **\[Apache 2.0]** - Chinese legal assistant from Fudan; legal retrieval + reasoning
 * [Fuzi.Mingcha](https://github.com/irlab-sdu/fuzi.mingcha) ⭐ 388 | 🐛 15 | 🌐 Python | 📅 2025-07-30 - **\[ChatGLM]** - **\[ZH]** - Judicial LLM from Shandong U. + China U. of Political Science & Law; statute retrieval, syllogistic reasoning, judicial dialogue.
 * [Pasal.id](https://github.com/ilhamfp/pasal) ⭐ 270 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-01 - **\[Claude + RAG]** - **\[ID]** - **\[Open]** - RAG-powered access to 40,000+ Indonesian regulations via Claude AI
@@ -303,7 +303,7 @@ Comprehensive platforms that handle multiple functions across the legal workflow
 * [Mike](https://github.com/willchen96/mike) ⭐ 4,152 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-25 - **\[Open Source]** Legal document assistant (Next.js + Express + Supabase + S3/R2) that lets users chat with uploaded documents using Anthropic, Gemini, or OpenAI models; BYOK per user. Hosted at [mikeoss.com](https://mikeoss.com).
 * [CourtListener (source)](https://github.com/freelawproject/courtlistener) ⭐ 999 | 🐛 1,001 | 🌐 Python | 📅 2026-08-25 - **\[Open Source]** Django source for the largest open US court-data archive (RECAP, opinions, oral arguments, judges) maintained by Free Law Project.
 * [dd-agents](https://github.com/zoharbabin/due-diligence-agents) ⭐ 91 | 🐛 12 | 🌐 Python | 📅 2026-08-08 - **\[Open Source]** M\&A due diligence platform orchestrating 13 AI agents (Legal, Finance, Commercial, ProductTech, Cybersecurity, HR, Tax, Regulatory, ESG + Judge, Red Flag Scanner, Executive Synthesis, Acquirer Intelligence) across a 38-step pipeline. Interactive chat mode with 14 MCP tools for citation verification, cross-contract search, and document generation. Neurosymbolic cross-domain analysis routes findings between domains via deterministic rules. Apache 2.0, `pip install dd-agents`.
-* [doc.haus](https://github.com/sure-scale/doc-haus) ⭐ 68 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-13 - **\[Open Source]** Self-hostable legal AI agent built as a fork of [OpenCode](https://github.com/anomalyco/opencode) ⭐ 201,128 | 🐛 5,364 | 🌐 TypeScript | 📅 2026-08-25; documents stay on the user's machine, with matter-scoped private workspaces, cited document Q\&A, and tracked-change DOCX redlines that open in Word.
+* [doc.haus](https://github.com/sure-scale/doc-haus) ⭐ 68 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-13 - **\[Open Source]** Self-hostable legal AI agent built as a fork of [OpenCode](https://github.com/anomalyco/opencode) ⭐ 201,137 | 🐛 5,370 | 🌐 TypeScript | 📅 2026-08-25; documents stay on the user's machine, with matter-scoped private workspaces, cited document Q\&A, and tracked-change DOCX redlines that open in Word.
 * [Suzie Law](https://github.com/firelex/suzielaw) ⭐ 63 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-18 - **\[Open Source]** Self-hostable Harvey alternative built on Team Suzie: chat assistant ("Counsel"), 12 practice-area personas, 160+ agentic workflows, document Q\&A with citations, tracked-change redlines, DOCX drafting, and unified legal research across 19 jurisdictions (US, UK, EU, FR, DE, IN, AU, etc.).
 * [Legal Document Chat](https://github.com/janderswag/legal-document-chat) ⭐ 31 | 🐛 6 | 🌐 Python | 📅 2026-07-22 - **\[Open Source]** Self-hosted document chat for attorneys that parses legal PDFs and answers questions using local open-source LLMs (Ollama), with page- and span-level citations mechanically verified against the source; runs fully offline (loopback-only, no cloud calls) on FastAPI + LanceDB (MIT).
 * [Patron](https://github.com/matematicsolutions/patron) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 - **\[🇵🇱 Poland]** **\[Open Source]** Self-hosted AI agent for law firms; hard fork of Mike extended with a hash-chained audit trail (EU AI Act art. 12 record-keeping), bring-your-own-model, 9 language editions, and MCP connectors for Polish and EU primary law. AGPL-3.0.
@@ -1595,7 +1595,7 @@ Stay current with the legaltech ecosystem.
 
 ## Related Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21 - The original meta awesome list.
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,716 | 🐛 106 | 📅 2026-08-21 - The original meta awesome list.
 * [maastrichtlawtech/awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) ⭐ 338 | 🐛 6 | 📅 2025-10-14 - Legal NLP papers, models, and datasets.
 * [Jeryi-Sun/LLM-and-Law](https://github.com/Jeryi-Sun/LLM-and-Law) ⭐ 329 | 🐛 1 | 📅 2026-08-24 - Continually-updated paper list on LLMs applied to law.
 * [openlegaldata/awesome-legal-data](https://github.com/openlegaldata/awesome-legal-data) ⭐ 296 | 🐛 8 | 📅 2026-08-24 - Curated collection of legal text-processing datasets and resources.
