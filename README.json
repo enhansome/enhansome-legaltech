@@ -65,6 +65,21 @@
         },
         {
           "node_type": "item",
+          "title": "Vaquill MCP",
+          "description": "MCP server over US federal and 50-state law (USC, CFR, state legislation, CourtListener case law).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1174441422,
+            "language": "Python",
+            "last_commit": "2026-08-08T10:55:56Z",
+            "owner": "Vaquill-AI",
+            "repo": "vaquill-mcp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
           "title": "CanLII MCP",
           "description": "MCP server for the CanLII Canadian legal database with bring-your-own-key auth.",
           "children": [],
@@ -76,21 +91,6 @@
             "owner": "Vaquill-AI",
             "repo": "canlii-mcp",
             "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vaquill MCP",
-          "description": "MCP server over US federal and 50-state law (USC, CFR, state legislation, CourtListener case law).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1174441422,
-            "language": "Python",
-            "last_commit": "2026-08-08T10:55:56Z",
-            "owner": "Vaquill-AI",
-            "repo": "vaquill-mcp",
-            "stars": 4
           }
         },
         {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 22757589,
                 "language": "HTML",
-                "last_commit": "2026-08-19T23:16:02Z",
+                "last_commit": "2026-08-24T15:05:37Z",
                 "owner": "freelawproject",
                 "repo": "juriscraper",
-                "stars": 626
+                "stars": 627
               }
             },
             {
@@ -245,10 +245,10 @@
                 "archived": false,
                 "id": 1138989235,
                 "language": "Java",
-                "last_commit": "2026-08-24T09:00:24Z",
+                "last_commit": "2026-08-25T05:46:05Z",
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
-                "stars": 78
+                "stars": 79
               }
             },
             {
@@ -528,7 +528,7 @@
                 "last_commit": "2025-01-04T15:29:26Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7582
+                "stars": 7583
               }
             },
             {
@@ -558,7 +558,7 @@
                 "last_commit": "2025-05-27T07:45:58Z",
                 "owner": "FudanDISC",
                 "repo": "DISC-LawLLM",
-                "stars": 948
+                "stars": 949
               }
             },
             {
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-20T07:50:14Z",
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2512
+            "stars": 2515
           }
         },
         {
@@ -708,7 +708,7 @@
             "archived": false,
             "id": 1206910786,
             "language": "Python",
-            "last_commit": "2026-06-05T13:00:07Z",
+            "last_commit": "2026-08-24T16:25:46Z",
             "owner": "lawchat-oss",
             "repo": "mcp-taiwan-legal-db",
             "stars": 174
@@ -891,7 +891,7 @@
             "last_commit": "2026-08-24T05:02:48Z",
             "owner": "numikel",
             "repo": "law-scrapper-mcp",
-            "stars": 20
+            "stars": 19
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2026-08-08T10:55:56Z",
             "owner": "Vaquill-AI",
             "repo": "vaquill-mcp",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "archived": false,
             "id": 1224854794,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:55:58Z",
+            "last_commit": "2026-08-25T06:01:04Z",
             "owner": "open-legal-products",
             "repo": "mike",
             "stars": 4152
@@ -1200,10 +1200,10 @@
             "archived": false,
             "id": 22257580,
             "language": "Python",
-            "last_commit": "2026-08-22T03:24:07Z",
+            "last_commit": "2026-08-25T06:00:50Z",
             "owner": "freelawproject",
             "repo": "courtlistener",
-            "stars": 998
+            "stars": 999
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "archived": false,
             "id": 1243751570,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:52:03Z",
+            "last_commit": "2026-08-24T20:36:23Z",
             "owner": "matematicsolutions",
             "repo": "patron",
             "stars": 11
@@ -1376,7 +1376,7 @@
                 "last_commit": "2026-08-22T01:40:44Z",
                 "owner": "i-dot-ai",
                 "repo": "lex",
-                "stars": 66
+                "stars": 65
               }
             }
           ],
@@ -1402,7 +1402,7 @@
             "last_commit": "2026-08-06T09:06:46Z",
             "owner": "accordproject",
             "repo": "template-archive",
-            "stars": 361
+            "stars": 363
           }
         },
         {
@@ -1444,10 +1444,10 @@
             "archived": false,
             "id": 323679025,
             "language": "Python",
-            "last_commit": "2026-08-20T15:26:07Z",
+            "last_commit": "2026-08-24T18:20:30Z",
             "owner": "SuffolkLITLab",
             "repo": "docassemble-AssemblyLine",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -1513,7 +1513,7 @@
             "last_commit": "2026-07-04T08:33:24Z",
             "owner": "wraft",
             "repo": "wraft",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -1564,7 +1564,7 @@
             "last_commit": "2026-08-21T12:29:09Z",
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6900
+            "stars": 6908
           }
         },
         {
@@ -1618,7 +1618,7 @@
             "archived": false,
             "id": 1256016809,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:24:20Z",
+            "last_commit": "2026-08-24T17:37:39Z",
             "owner": "clarvia-org",
             "repo": "clarvia-graph",
             "stars": 12
@@ -1813,7 +1813,7 @@
             "last_commit": "2024-03-30T19:36:57Z",
             "owner": "Liquid-Legal-Institute",
             "repo": "Legal-Ontologies",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -1849,7 +1849,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499519
+            "stars": 499706
           }
         },
         {
@@ -1902,7 +1902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:10.338Z",
+    "last_updated": "2026-08-25T06:25:10.647Z",
     "original_repository": "Vaquill-AI/awesome-legaltech",
     "original_repository_id": 1179502630,
     "original_repository_sha": "78d43fe8ae6f853fdba60d845184be79dcf51d73",
