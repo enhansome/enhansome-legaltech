@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 1138989235,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:35:13Z",
+                "last_commit": "2026-08-27T13:23:29Z",
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
                 "stars": 79
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-20T07:50:14Z",
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2526
+            "stars": 2528
           }
         },
         {
@@ -821,6 +821,21 @@
         },
         {
           "node_type": "item",
+          "title": "agentic-ops/legal-mcp",
+          "description": "Comprehensive MCP server for legal workflows. Integrates AI assistants with legal databases and case management systems (Clio, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1015204723,
+            "language": "Python",
+            "last_commit": "2026-07-17T22:41:16Z",
+            "owner": "agentic-ops",
+            "repo": "legal-mcp",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Emilie",
           "description": "[🇨🇭 Switzerland] Swiss sovereign legal AI; Mike fork extended with MCP client and local Apertus model support.",
           "children": [],
@@ -832,21 +847,6 @@
             "owner": "veronica-builds",
             "repo": "emilie",
             "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agentic-ops/legal-mcp",
-          "description": "Comprehensive MCP server for legal workflows. Integrates AI assistants with legal databases and case management systems (Clio, etc.).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1015204723,
-            "language": "Python",
-            "last_commit": "2026-07-17T22:41:16Z",
-            "owner": "agentic-ops",
-            "repo": "legal-mcp",
-            "stars": 31
           }
         },
         {
@@ -956,6 +956,21 @@
         },
         {
           "node_type": "item",
+          "title": "CourtListener MCP (khizar-anjum)",
+          "description": "MCP server built for searching cases by natural language legal problems across 3,352 U.S. courts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1050019960,
+            "language": "TypeScript",
+            "last_commit": "2025-09-08T18:22:20Z",
+            "owner": "khizar-anjum",
+            "repo": "courtlistener-mcp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Sound Suite",
           "description": "[Self-Hosted] Local-first legal document intelligence platform exposing 14 MCP tools (semantic and keyword/hybrid search, OCR, exhibit image retrieval, and case-knowledge queries); watches case-file directories and indexes PDFs into a local vector store, running entirely on-premises with no external API calls. Source-available under the Polyform Noncommercial license.",
           "children": [],
@@ -967,21 +982,6 @@
             "owner": "alperu",
             "repo": "soundsuite",
             "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CourtListener MCP (khizar-anjum)",
-          "description": "MCP server built for searching cases by natural language legal problems across 3,352 U.S. courts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1050019960,
-            "language": "TypeScript",
-            "last_commit": "2025-09-08T18:22:20Z",
-            "owner": "khizar-anjum",
-            "repo": "courtlistener-mcp",
-            "stars": 2
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "archived": false,
             "id": 1224854794,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:20:38Z",
+            "last_commit": "2026-08-27T17:38:33Z",
             "owner": "open-legal-products",
             "repo": "mike",
             "stars": 4157
@@ -1200,7 +1200,7 @@
             "archived": false,
             "id": 22257580,
             "language": "Python",
-            "last_commit": "2026-08-26T23:29:13Z",
+            "last_commit": "2026-08-27T17:15:30Z",
             "owner": "freelawproject",
             "repo": "courtlistener",
             "stars": 1002
@@ -1444,7 +1444,7 @@
             "archived": false,
             "id": 323679025,
             "language": "Python",
-            "last_commit": "2026-08-26T20:01:40Z",
+            "last_commit": "2026-08-27T17:42:01Z",
             "owner": "SuffolkLITLab",
             "repo": "docassemble-AssemblyLine",
             "stars": 66
@@ -1564,7 +1564,7 @@
             "last_commit": "2026-08-21T12:29:09Z",
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6920
+            "stars": 6925
           }
         },
         {
@@ -1849,7 +1849,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500364
+            "stars": 500454
           }
         },
         {
@@ -1876,7 +1876,7 @@
             "archived": false,
             "id": 614464281,
             "language": null,
-            "last_commit": "2026-08-25T12:04:59Z",
+            "last_commit": "2026-08-27T12:05:05Z",
             "owner": "Jeryi-Sun",
             "repo": "LLM-and-Law",
             "stars": 329
@@ -1902,7 +1902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:28.950Z",
+    "last_updated": "2026-08-27T17:42:21.406Z",
     "original_repository_info": {
       "archived": false,
       "id": 1179502630,
