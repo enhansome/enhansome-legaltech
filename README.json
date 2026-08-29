@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "open-us-law",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "constitution",
               "court-rules",
@@ -485,8 +485,8 @@
                 "id": 1138989235,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T04:46:06Z",
-                "open_issues": 15,
+                "last_commit": "2026-08-29T12:43:08Z",
+                "open_issues": 16,
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
                 "stars": 79,
@@ -631,7 +631,7 @@
                 "open_issues": 0,
                 "owner": "Vaquill-AI",
                 "repo": "open-us-law",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "constitution",
                   "court-rules",
@@ -1040,7 +1040,7 @@
                 "open_issues": 20,
                 "owner": "ilhamfp",
                 "repo": "pasal",
-                "stars": 270,
+                "stars": 271,
                 "topics": [
                   "ai-native",
                   "anthropic",
@@ -1143,7 +1143,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-20T07:50:14Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
             "stars": 2533,
@@ -1235,7 +1235,7 @@
             "open_issues": 20,
             "owner": "ilhamfp",
             "repo": "pasal",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "ai-native",
               "anthropic",
@@ -1522,7 +1522,7 @@
             "open_issues": 1,
             "owner": "jmtanguy",
             "repo": "droit-francais-mcp",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "avocat",
               "ia",
@@ -1714,7 +1714,7 @@
             "id": 1205079484,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-20T18:03:54Z",
+            "last_commit": "2026-08-29T09:32:30Z",
             "open_issues": 2,
             "owner": "alperu",
             "repo": "soundsuite",
@@ -2158,7 +2158,7 @@
             "open_issues": 47,
             "owner": "open-legal-products",
             "repo": "mike",
-            "stars": 4163,
+            "stars": 4165,
             "topics": [
               "legal-ai",
               "legal-tech"
@@ -2695,7 +2695,7 @@
             "open_issues": 13,
             "owner": "CommonAccord",
             "repo": "Cmacc-Org",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -2891,7 +2891,7 @@
             "open_issues": 146,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6931,
+            "stars": 6932,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3003,8 +3003,8 @@
             "id": 1256016809,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-08-25T15:52:08Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-29T12:00:43Z",
+            "open_issues": 25,
             "owner": "clarvia-org",
             "repo": "clarvia-graph",
             "stars": 12,
@@ -3368,7 +3368,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500894,
+            "stars": 501003,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3461,7 +3461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:26.280Z",
+    "last_updated": "2026-08-29T12:45:30.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
@@ -3473,7 +3473,7 @@
       "open_issues": 38,
       "owner": "Vaquill-AI",
       "repo": "awesome-legaltech",
-      "stars": 210,
+      "stars": 211,
       "topics": [
         "awesome",
         "awesome-list",
