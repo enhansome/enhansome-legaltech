@@ -85,7 +85,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-28T07:32:16Z",
-            "open_issues": 0,
+            "open_issues": 9,
             "owner": "Vaquill-AI",
             "repo": "ms-word-addin",
             "stars": 71,
@@ -342,11 +342,11 @@
                 "id": 22757589,
                 "language": "HTML",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-24T15:05:37Z",
-                "open_issues": 266,
+                "last_commit": "2026-08-31T22:22:02Z",
+                "open_issues": 264,
                 "owner": "freelawproject",
                 "repo": "juriscraper",
-                "stars": 627,
+                "stars": 628,
                 "topics": [
                   "courts",
                   "government",
@@ -485,8 +485,8 @@
                 "id": 1138989235,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-31T13:50:43Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-01T10:54:49Z",
+                "open_issues": 15,
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
                 "stars": 79,
@@ -586,7 +586,7 @@
                 "open_issues": 23,
                 "owner": "allenai",
                 "repo": "s2orc",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -931,7 +931,7 @@
                 "open_issues": 65,
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7593,
+                "stars": 7595,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1146,7 +1146,7 @@
             "open_issues": 0,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2538,
+            "stars": 2540,
             "topics": [
               "citation-verification",
               "claude",
@@ -1181,7 +1181,7 @@
             "open_issues": 4,
             "owner": "saidsurucu",
             "repo": "yargi-mcp",
-            "stars": 1109,
+            "stars": 1110,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1273,7 +1273,7 @@
             "open_issues": 2,
             "owner": "lawchat-oss",
             "repo": "mcp-taiwan-legal-db",
-            "stars": 180,
+            "stars": 183,
             "topics": [
               "claude",
               "judicial",
@@ -1299,11 +1299,11 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:51:51Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-31T19:52:53Z",
+            "open_issues": 3,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -1397,7 +1397,7 @@
             "open_issues": 1,
             "owner": "sboghossian",
             "repo": "master-claude-for-legal",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1456,7 +1456,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-17T22:41:16Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "agentic-ops",
             "repo": "legal-mcp",
             "stars": 33,
@@ -1505,6 +1505,33 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LegalContext MCP",
+          "description": "Open-source MCP server bridging law firm document management systems with AI assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LegalContext is an open-source Model Context Protocol (MCP) server that creates a secure, standardized bridge between law firms' document management systems (specifically Clio) and AI assistants (starting with Claude Desktop)",
+            "homepage": "https://protomated.com/products/legal-context",
+            "id": 957463244,
+            "language": "TypeScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-05-01T09:26:12Z",
+            "open_issues": 1,
+            "owner": "protomated",
+            "repo": "legal-context-ce",
+            "stars": 29,
+            "topics": [
+              "clio",
+              "dms",
+              "legal",
+              "legaltech",
+              "mcp-server"
+            ]
+          },
+          "first_seen": "2026-09-01T11:49:19.776Z"
         },
         {
           "node_type": "item",
@@ -1564,8 +1591,8 @@
             "id": 1078136016,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:40:24Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-01T05:10:16Z",
+            "open_issues": 25,
             "owner": "numikel",
             "repo": "law-scrapper-mcp",
             "stars": 19,
@@ -1985,6 +2012,48 @@
         },
         {
           "node_type": "item",
+          "title": "kvasir",
+          "description": "[🇩🇪 🇦🇹 🇨🇭 🇪🇺 DACH/EU] Hosted MCP server over German federal and state law (Bavaria, NRW, Saxony, Brandenburg, Bremen), Austrian, Swiss and EU law — case law and citation edges, checked daily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for verifiable German, Austrian, Swiss & EU law — resolve, search and verify legal citations against the official sources.",
+            "homepage": "https://kvasir.legal/developers",
+            "id": 1339883181,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-19T18:08:33Z",
+            "open_issues": 0,
+            "owner": "kvasir-legal",
+            "repo": "kvasir-mcp",
+            "stars": 0,
+            "topics": [
+              "austrian-law",
+              "citation-graph",
+              "citation-grounded-ai",
+              "citation-grounding",
+              "eu-law",
+              "german-law",
+              "grounding",
+              "legal",
+              "legal-ai",
+              "legal-documents",
+              "legal-research",
+              "legal-tech",
+              "legaltech",
+              "legaltools",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "rag",
+              "swiss-law"
+            ]
+          },
+          "first_seen": "2026-09-01T11:49:19.776Z"
+        },
+        {
+          "node_type": "item",
           "title": "EU Compliance MCP (offline)",
           "description": "[🇪🇺 EU] Offline MCP corpus of EU law (GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA): full text in a local SQLite FTS5 index, verbatim retrieval, no LLM in the loop; runs air-gapped. MIT.",
           "children": [],
@@ -2154,8 +2223,8 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T15:12:04Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-01T11:25:17Z",
+            "open_issues": 52,
             "owner": "open-legal-products",
             "repo": "mike",
             "stars": 4167,
@@ -2178,8 +2247,8 @@
             "id": 22257580,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T13:05:39Z",
-            "open_issues": 1005,
+            "last_commit": "2026-09-01T07:28:03Z",
+            "open_issues": 1026,
             "owner": "freelawproject",
             "repo": "courtlistener",
             "stars": 1005,
@@ -2301,7 +2370,7 @@
             "open_issues": 6,
             "owner": "janderswag",
             "repo": "docuchat.app",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "chat-with-pdf",
               "citations",
@@ -2338,8 +2407,8 @@
             "id": 1243751570,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T01:45:32Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-01T01:47:03Z",
+            "open_issues": 13,
             "owner": "matematicsolutions",
             "repo": "patron",
             "stars": 11,
@@ -2386,7 +2455,7 @@
                 "open_issues": 13,
                 "owner": "lawglance",
                 "repo": "lawglance",
-                "stars": 307,
+                "stars": 308,
                 "topics": [
                   "ai",
                   "assistance",
@@ -2599,11 +2668,11 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:51:51Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-31T19:52:53Z",
+            "open_issues": 3,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -2631,7 +2700,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-28T07:32:16Z",
-            "open_issues": 0,
+            "open_issues": 9,
             "owner": "Vaquill-AI",
             "repo": "ms-word-addin",
             "stars": 71,
@@ -2663,7 +2732,7 @@
             "id": 323679025,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T20:23:44Z",
+            "last_commit": "2026-08-31T19:58:13Z",
             "open_issues": 93,
             "owner": "SuffolkLITLab",
             "repo": "docassemble-AssemblyLine",
@@ -2712,11 +2781,11 @@
             "id": 1259558144,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-30T06:43:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-01T02:07:33Z",
+            "open_issues": 0,
             "owner": "fayerman-source",
             "repo": "deslop",
-            "stars": 16,
+            "stars": 18,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2868,6 +2937,43 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Aakd",
+          "description": "[Open Source] Self-hostable contract operations workspace for reviewing source-linked obligations, owners, deadlines, approvals, and completion evidence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source, self-hosted AI-native contract lifecycle management (CLM) for contract operations.",
+            "homepage": "https://aakd.app",
+            "id": 1243883214,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-20T00:21:24Z",
+            "open_issues": 3,
+            "owner": "aaked-app",
+            "repo": "aakd",
+            "stars": 10,
+            "topics": [
+              "ai",
+              "clm",
+              "contract-lifecycle-management",
+              "contract-management",
+              "contract-operations",
+              "docuseal",
+              "legaltech",
+              "mcp",
+              "nextjs",
+              "ocr",
+              "ollama",
+              "open-source",
+              "pgvector",
+              "self-hosted",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-01T11:49:19.776Z"
         }
       ],
       "title": "Contract Lifecycle Management (CLM)"
@@ -2891,7 +2997,7 @@
             "open_issues": 146,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6936,
+            "stars": 6943,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -2962,31 +3068,75 @@
       "title": "Notarization & E-Signature"
     },
     {
-      "description": "Software for running a law practice and legal department operations - case management, billing, calendaring, and workflow automation.",
+      "description": "Tools for regulatory compliance, policy management, financial crime detection, and AI governance.",
       "items": [
         {
           "node_type": "item",
-          "title": "ClinicCases",
-          "description": "[Open Source] Case management for law school clinics.",
+          "title": "EU AI Regulation Decoded",
+          "description": "[Open / Academic] Free practitioner reference mapping EU AI Act obligations to the specific evidence an auditor expects — by role, risk tier, and deadline — with a browser-based audit-readiness checklist and a CC BY 4.0 machine-readable obligation-to-evidence dataset; not legal advice.",
           "children": [],
           "repo_info": {
-            "archived": true,
-            "description": "ClinicCases is a web-based case management system designed specifically for law school clinics",
-            "homepage": "http://www.cliniccases.com",
-            "id": 3033382,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2023-09-30T19:48:46Z",
-            "open_issues": 44,
-            "owner": "judsonmitchell",
-            "repo": "ClinicCases",
-            "stars": 61,
-            "topics": []
+            "archived": false,
+            "description": "Open EU AI Act dataset mapping obligations to expected evidence, deadlines and audit red flags.",
+            "homepage": "https://euaird.vercel.app",
+            "id": 1321381758,
+            "language": "Python",
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-08-03T09:04:47Z",
+            "open_issues": 0,
+            "owner": "Kroniquedubaboo",
+            "repo": "eu-ai-act-obligation-evidence-dataset",
+            "stars": 1,
+            "topics": [
+              "ai-compliance",
+              "ai-governance",
+              "artificial-intelligence",
+              "audit",
+              "compliance",
+              "eu-ai-act",
+              "grc",
+              "legal-tech",
+              "open-data",
+              "regtech"
+            ]
           },
-          "first_seen": "2026-08-28T18:51:13.190Z"
+          "first_seen": "2026-09-01T11:49:19.776Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MiCAR Whitepaper Linter",
+          "description": "[🇪🇺 EU] Deterministic linter for crypto-asset white papers under MiCAR (EU) 2023/1114: 35 rules mapped to Annex I-III with pinpoint citations, a CI action, and a browser playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Deterministic MiCAR whitepaper linter with playbook review tables, citations, remediation bundles, and local draft comparison.",
+            "homepage": null,
+            "id": 1288555137,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-30T10:13:50Z",
+            "open_issues": 5,
+            "owner": "sebastianfoerste",
+            "repo": "micar-whitepaper-linter",
+            "stars": 0,
+            "topics": [
+              "citations",
+              "cli",
+              "compliance",
+              "crypto-assets",
+              "deterministic-rules",
+              "legal-engineering",
+              "micar",
+              "python",
+              "regtech",
+              "regulation-as-code",
+              "whitepaper"
+            ]
+          },
+          "first_seen": "2026-09-01T11:49:19.776Z"
         }
       ],
-      "title": "Practice Management & Legal Ops"
+      "title": "Compliance & RegTech"
     },
     {
       "description": "Organizations and software actively using technology to advance access to justice, court systems, and open legal infrastructure.",
@@ -3003,8 +3153,8 @@
             "id": 1256016809,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-08-30T21:27:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-01T09:10:14Z",
+            "open_issues": 11,
             "owner": "clarvia-org",
             "repo": "clarvia-graph",
             "stars": 12,
@@ -3032,6 +3182,43 @@
             ]
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Elder Fraud Toolkit",
+          "description": "[Open Source] MIT credit-freeze letter generator covering all three US bureaus, including the power-of-attorney and guardianship route. Runs entirely in-browser with zero network calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Credit-freeze letter generator (self-service or POA/guardian route) for all three bureaus, plus one-tap fraud-prevention hotlines, vCard and QR codes. 100% in-browser — nothing is ever transmitted.",
+            "homepage": "https://stepuplaw.com/credit-freeze-letter-generator",
+            "id": 1331944273,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-22T19:21:36Z",
+            "open_issues": 7,
+            "owner": "stepuplaw",
+            "repo": "elder-fraud-toolkit",
+            "stars": 0,
+            "topics": [
+              "access-to-justice",
+              "consumer-protection",
+              "credit-freeze",
+              "credit-report",
+              "elder-abuse",
+              "elder-fraud",
+              "elder-law",
+              "guardianship",
+              "identity-theft",
+              "legal-tech",
+              "power-of-attorney",
+              "qrcode",
+              "scam-prevention",
+              "typescript",
+              "vcard"
+            ]
+          },
+          "first_seen": "2026-09-01T11:49:19.776Z"
         }
       ],
       "title": "Access to Justice & Public Interest Tech"
@@ -3055,7 +3242,7 @@
             "open_issues": 19,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 629,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -3099,7 +3286,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-10-14T08:56:41Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "maastrichtlawtech",
             "repo": "awesome-legal-nlp",
             "stars": 338,
@@ -3368,7 +3555,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501605,
+            "stars": 501892,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3392,7 +3579,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-10-14T08:56:41Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "maastrichtlawtech",
             "repo": "awesome-legal-nlp",
             "stars": 338,
@@ -3461,7 +3648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:09:24.590Z",
+    "last_updated": "2026-09-01T11:49:19.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
@@ -3469,11 +3656,11 @@
       "id": 1179502630,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-06T17:17:34Z",
-      "open_issues": 40,
+      "last_commit": "2026-08-31T19:40:16Z",
+      "open_issues": 12,
       "owner": "Vaquill-AI",
       "repo": "awesome-legaltech",
-      "stars": 213,
+      "stars": 214,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3481,7 +3668,7 @@
         "legaltech"
       ]
     },
-    "original_repository_sha": "78d43fe8ae6f853fdba60d845184be79dcf51d73",
+    "original_repository_sha": "09a23c9f7dbfefbe9bce8ebcd213b9b4885032d2",
     "enhanced_repository": "enhansome/enhansome-legaltech",
     "enhanced_repository_description": null,
     "title": "Awesome Legaltech with stars"
