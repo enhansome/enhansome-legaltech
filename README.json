@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Vaquill-AI",
             "repo": "open-us-law",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "constitution",
               "court-rules",
@@ -144,11 +144,11 @@
             "id": 1174441422,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T17:37:35Z",
+            "last_commit": "2026-09-08T09:11:49Z",
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "vaquill-mcp",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "lawtech",
               "legaltech",
@@ -369,7 +369,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-05T21:08:23Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "freelawproject",
                 "repo": "eyecite",
                 "stars": 273,
@@ -411,6 +411,48 @@
             },
             {
               "node_type": "item",
+              "title": "AI Workdeck",
+              "description": "[Open Source] AI-native IDE workspace for legal and document-heavy workflows — \"VS Code for lawyers.\" Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3). Features MCP agent orchestration, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, and smart clipboard. Supports air-gapped deployment with Ollama + local storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, built-in document editing with tracked changes, OCR, evidence chains. VS Code for lawyers.",
+                "homepage": "https://www.aiworkdeck.com",
+                "id": 1138989235,
+                "language": "Java",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-08T07:51:45Z",
+                "open_issues": 16,
+                "owner": "zeweihan",
+                "repo": "aiworkdeck",
+                "stars": 104,
+                "topics": [
+                  "ai-agents",
+                  "ai-workspace",
+                  "compliance",
+                  "document-ai",
+                  "document-management",
+                  "due-diligence",
+                  "electron",
+                  "ide",
+                  "legal-ai",
+                  "legaltech",
+                  "libreoffice",
+                  "mcp",
+                  "ocr",
+                  "open-source",
+                  "productivity",
+                  "rag",
+                  "self-hosted",
+                  "spring-boot",
+                  "vue",
+                  "workspace"
+                ]
+              },
+              "first_seen": "2026-08-28T18:51:13.190Z"
+            },
+            {
+              "node_type": "item",
               "title": "Opennyai",
               "description": "[Open Source] End-to-end Python NLP pipeline for Indian legal documents (NER, rhetorical-role labeling, summarization).",
               "children": [],
@@ -435,48 +477,6 @@
                   "nlp",
                   "python",
                   "spacy"
-                ]
-              },
-              "first_seen": "2026-08-28T18:51:13.190Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AI Workdeck",
-              "description": "[Open Source] AI-native IDE workspace for legal and document-heavy workflows — \"VS Code for lawyers.\" Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3). Features MCP agent orchestration, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, and smart clipboard. Supports air-gapped deployment with Ollama + local storage.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, built-in document editing with tracked changes, OCR, evidence chains. VS Code for lawyers.",
-                "homepage": "https://www.aiworkdeck.com",
-                "id": 1138989235,
-                "language": "Java",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T09:03:37Z",
-                "open_issues": 16,
-                "owner": "zeweihan",
-                "repo": "aiworkdeck",
-                "stars": 95,
-                "topics": [
-                  "ai-agents",
-                  "ai-workspace",
-                  "compliance",
-                  "document-ai",
-                  "document-management",
-                  "due-diligence",
-                  "electron",
-                  "ide",
-                  "legal-ai",
-                  "legaltech",
-                  "libreoffice",
-                  "mcp",
-                  "ocr",
-                  "open-source",
-                  "productivity",
-                  "rag",
-                  "self-hosted",
-                  "spring-boot",
-                  "vue",
-                  "workspace"
                 ]
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -586,7 +586,7 @@
                 "open_issues": 23,
                 "owner": "allenai",
                 "repo": "s2orc",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -631,7 +631,7 @@
                 "open_issues": 2,
                 "owner": "Vaquill-AI",
                 "repo": "open-us-law",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "constitution",
                   "court-rules",
@@ -904,7 +904,7 @@
                 "open_issues": 65,
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7601,
+                "stars": 7603,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -922,7 +922,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-28T09:23:35Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "AndrewZhe",
                 "repo": "lawyer-llama",
                 "stars": 1000,
@@ -956,7 +956,7 @@
                 "open_issues": 31,
                 "owner": "FudanDISC",
                 "repo": "DISC-LawLLM",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "domain-llm",
                   "legal-intelligence",
@@ -1082,7 +1082,7 @@
                 "open_issues": 4,
                 "owner": "open-compass",
                 "repo": "LawBench",
-                "stars": 451,
+                "stars": 452,
                 "topics": [
                   "benchmark",
                   "chatgpt",
@@ -1119,7 +1119,7 @@
             "open_issues": 5,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2559,
+            "stars": 2561,
             "topics": [
               "citation-verification",
               "claude",
@@ -1135,27 +1135,6 @@
               "precedent",
               "typescript"
             ]
-          },
-          "first_seen": "2026-08-28T18:51:13.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Yargı MCP",
-          "description": "[🇹🇷 Turkey] MCP server for Turkish legal databases (Yargıtay, Danıştay, Anayasa Mahkemesi).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MCP Server For Turkish Legal Databases",
-            "homepage": null,
-            "id": 987694011,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-06T19:34:22Z",
-            "open_issues": 4,
-            "owner": "saidsurucu",
-            "repo": "yargi-mcp",
-            "stars": 1111,
-            "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
         },
@@ -1246,7 +1225,7 @@
             "open_issues": 2,
             "owner": "lawchat-oss",
             "repo": "mcp-taiwan-legal-db",
-            "stars": 187,
+            "stars": 189,
             "topics": [
               "claude",
               "judicial",
@@ -1272,11 +1251,11 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T08:43:25Z",
+            "last_commit": "2026-09-07T22:24:28Z",
             "open_issues": 8,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 153,
+            "stars": 155,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -1328,7 +1307,7 @@
             "open_issues": 0,
             "owner": "Mahender22",
             "repo": "legal-mcp",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1432,7 +1411,7 @@
             "open_issues": 1,
             "owner": "agentic-ops",
             "repo": "legal-mcp",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1627,6 +1606,31 @@
         },
         {
           "node_type": "item",
+          "title": "Vaquill AI MCP",
+          "description": "MCP server that connects Claude / Cursor / Windsurf / VS Code to 8M+ US federal and state court opinions plus the US Code and CFR. (Sponsor)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for Vaquill legal research API. Covers US federal + 50-state law (USC, CFR, state legislation, CourtListener case law) ",
+            "homepage": "https://vaquill.ai",
+            "id": 1174441422,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-08T09:11:49Z",
+            "open_issues": 0,
+            "owner": "Vaquill-AI",
+            "repo": "vaquill-mcp",
+            "stars": 7,
+            "topics": [
+              "lawtech",
+              "legaltech",
+              "mcp"
+            ]
+          },
+          "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
           "title": "CourtListener MCP (DefendTheDisabled)",
           "description": "Connects AI agents to CourtListener with semantic search, hybrid search, and citation verification to mitigate hallucination.",
           "children": [],
@@ -1652,31 +1656,6 @@
               "mcp-server",
               "python",
               "semantic-search"
-            ]
-          },
-          "first_seen": "2026-08-28T18:51:13.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Vaquill AI MCP",
-          "description": "MCP server that connects Claude / Cursor / Windsurf / VS Code to 8M+ US federal and state court opinions plus the US Code and CFR. (Sponsor)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MCP server for Vaquill legal research API. Covers US federal + 50-state law (USC, CFR, state legislation, CourtListener case law) ",
-            "homepage": "https://vaquill.ai",
-            "id": 1174441422,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-06T17:37:35Z",
-            "open_issues": 0,
-            "owner": "Vaquill-AI",
-            "repo": "vaquill-mcp",
-            "stars": 6,
-            "topics": [
-              "lawtech",
-              "legaltech",
-              "mcp"
             ]
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1714,7 +1693,7 @@
             "id": 1205079484,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T16:23:00Z",
+            "last_commit": "2026-09-08T00:33:52Z",
             "open_issues": 2,
             "owner": "alperu",
             "repo": "soundsuite",
@@ -2197,11 +2176,11 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T21:08:29Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-07T23:43:41Z",
+            "open_issues": 67,
             "owner": "open-legal-products",
             "repo": "mike",
-            "stars": 4191,
+            "stars": 4196,
             "topics": [
               "legal-ai",
               "legal-tech"
@@ -2221,8 +2200,8 @@
             "id": 22257580,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T05:46:31Z",
-            "open_issues": 1031,
+            "last_commit": "2026-09-08T04:36:38Z",
+            "open_issues": 1032,
             "owner": "freelawproject",
             "repo": "courtlistener",
             "stars": 1010,
@@ -2552,7 +2531,7 @@
                 "id": 996902617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:04:45Z",
+                "last_commit": "2026-09-08T01:38:48Z",
                 "open_issues": 10,
                 "owner": "i-dot-ai",
                 "repo": "lex",
@@ -2642,11 +2621,11 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T08:43:25Z",
+            "last_commit": "2026-09-07T22:24:28Z",
             "open_issues": 8,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 153,
+            "stars": 155,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -2867,7 +2846,7 @@
             "open_issues": 3,
             "owner": "evolsb",
             "repo": "legal-redline-tools",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "agent-skills",
               "agent-tools",
@@ -2924,7 +2903,7 @@
             "id": 1243883214,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-20T00:21:24Z",
+            "last_commit": "2026-09-08T06:53:00Z",
             "open_issues": 3,
             "owner": "aaked-app",
             "repo": "aakd",
@@ -2968,10 +2947,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T12:29:09Z",
-            "open_issues": 147,
+            "open_issues": 148,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6968,
+            "stars": 6975,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3237,7 +3216,7 @@
             "open_issues": 4,
             "owner": "open-compass",
             "repo": "LawBench",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "benchmark",
               "chatgpt",
@@ -3529,7 +3508,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503841,
+            "stars": 504116,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3604,10 +3583,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-02T16:35:22Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "openlegaldata",
             "repo": "awesome-legal-data",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "datasets",
               "legal",
@@ -3622,7 +3601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:47:49.509Z",
+    "last_updated": "2026-09-08T11:29:46.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
