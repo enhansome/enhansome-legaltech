@@ -281,7 +281,7 @@
                 "open_issues": 0,
                 "owner": "shcherbak-ai",
                 "repo": "contextgem",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": [
                   "ai",
                   "autoprompting",
@@ -342,8 +342,8 @@
                 "id": 22757589,
                 "language": "HTML",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-31T22:22:02Z",
-                "open_issues": 275,
+                "last_commit": "2026-09-09T21:29:42Z",
+                "open_issues": 277,
                 "owner": "freelawproject",
                 "repo": "juriscraper",
                 "stars": 631,
@@ -372,7 +372,7 @@
                 "open_issues": 73,
                 "owner": "freelawproject",
                 "repo": "eyecite",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -421,11 +421,11 @@
                 "id": 1138989235,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-09T11:22:16Z",
+                "last_commit": "2026-09-10T10:30:47Z",
                 "open_issues": 16,
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
-                "stars": 110,
+                "stars": 121,
                 "topics": [
                   "ai-agents",
                   "ai-workspace",
@@ -583,7 +583,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-04-26T20:45:42Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "allenai",
                 "repo": "s2orc",
                 "stars": 1086,
@@ -904,7 +904,7 @@
                 "open_issues": 65,
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7604,
+                "stars": 7603,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -925,7 +925,7 @@
                 "open_issues": 43,
                 "owner": "AndrewZhe",
                 "repo": "lawyer-llama",
-                "stars": 1000,
+                "stars": 999,
                 "topics": [
                   "alpaca",
                   "large-language-models",
@@ -1119,7 +1119,7 @@
             "open_issues": 3,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2565,
+            "stars": 2570,
             "topics": [
               "citation-verification",
               "claude",
@@ -1154,7 +1154,7 @@
             "open_issues": 36,
             "owner": "stefanoamorelli",
             "repo": "sec-edgar-mcp",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1251,11 +1251,11 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T10:15:26Z",
+            "last_commit": "2026-09-10T09:31:09Z",
             "open_issues": 5,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -1314,6 +1314,27 @@
         },
         {
           "node_type": "item",
+          "title": "Master Claude for Legal",
+          "description": "[Open Source] - [MIT] - Skill pack for legal teams using Claude with MCP connectors. 10 reference docs (privilege, verification, long documents, practice areas), 5 starter skills (NDA triage, version diff, meeting brief, citation verifier, status synthesis), 3 firm templates. Includes the source Anthropic legal-webinar transcript and 51-question dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Master skill pack for legal teams using Claude. References, starter skills, templates, and the source webinar dataset. Built from Anthropic's Claude for Legal Teams webinar + HAQQ deployment experience. MIT.",
+            "homepage": null,
+            "id": 1222419827,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-05-18T08:07:35Z",
+            "open_issues": 1,
+            "owner": "sboghossian",
+            "repo": "master-claude-for-legal",
+            "stars": 64,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
           "title": "mcp-server-legifrance",
           "description": "[🇫🇷 France] MCP that wraps the official Légifrance/PISTE API for searching French statutes, codes, and judicial jurisprudence.",
           "children": [],
@@ -1335,27 +1356,6 @@
         },
         {
           "node_type": "item",
-          "title": "Master Claude for Legal",
-          "description": "[Open Source] - [MIT] - Skill pack for legal teams using Claude with MCP connectors. 10 reference docs (privilege, verification, long documents, practice areas), 5 starter skills (NDA triage, version diff, meeting brief, citation verifier, status synthesis), 3 firm templates. Includes the source Anthropic legal-webinar transcript and 51-question dataset.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Master skill pack for legal teams using Claude. References, starter skills, templates, and the source webinar dataset. Built from Anthropic's Claude for Legal Teams webinar + HAQQ deployment experience. MIT.",
-            "homepage": null,
-            "id": 1222419827,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-05-18T08:07:35Z",
-            "open_issues": 1,
-            "owner": "sboghossian",
-            "repo": "master-claude-for-legal",
-            "stars": 63,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:51:13.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "auslaw-mcp",
           "description": "[🇦🇺 🇳🇿 AU/NZ] MCP server searching AustLII case law and legislation with OCR for scanned PDFs.",
           "children": [],
@@ -1366,8 +1366,8 @@
             "id": 1072616978,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T09:15:12Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-10T01:04:38Z",
+            "open_issues": 18,
             "owner": "russellbrenner",
             "repo": "jurisd",
             "stars": 35,
@@ -1564,8 +1564,8 @@
             "id": 1005938502,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T03:54:04Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-10T06:45:57Z",
+            "open_issues": 0,
             "owner": "Travis-Prall",
             "repo": "court-listener-mcp",
             "stars": 12,
@@ -1693,7 +1693,7 @@
             "id": 1205079484,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T00:08:35Z",
+            "last_commit": "2026-09-09T18:47:27Z",
             "open_issues": 2,
             "owner": "alperu",
             "repo": "soundsuite",
@@ -1964,6 +1964,76 @@
         },
         {
           "node_type": "item",
+          "title": "keihyo-cases",
+          "description": "[🇯🇵 Japan] MCP server over Consumer Affairs Agency enforcement orders under the Act against Unjustifiable Premiums and Misleading Representations (景品表示法) — 措置命令 and 課徴金納付命令 — with the provisions cited in each order and a source URL on every record. Structured deterministically from the agency's own published pages; states explicitly that it contains no judgement of its own. Also JSON/JSONL/CSV. Data under the Public Data License 1.0, code MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "景品表示法の措置命令・課徴金納付命令のデータセットと MCP サーバー / Machine-readable dataset of Japanese advertising-law enforcement actions, with an MCP server",
+            "homepage": null,
+            "id": 1354427053,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-08T10:05:22Z",
+            "open_issues": 5,
+            "owner": "eoylab",
+            "repo": "keihyo-cases",
+            "stars": 0,
+            "topics": [
+              "advertising",
+              "advertising-law",
+              "compliance",
+              "consumer-protection",
+              "dataset",
+              "japan",
+              "japanese",
+              "legal",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "open-data",
+              "regtech"
+            ]
+          },
+          "first_seen": "2026-09-10T11:32:34.723Z"
+        },
+        {
+          "node_type": "item",
+          "title": "jftc-actions",
+          "description": "[🇯🇵 Japan] MCP server over Japan Fair Trade Commission cease-and-desist orders (Antimonopoly Act) and Subcontract Act (取適法, formerly 下請法) recommendations, with a source URL per action. Personal names of sole proprietors are removed from the structured fields; unparsed announcements are kept in a separate file rather than filled in by guesswork. Data under the Public Data License 1.0, code MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "公正取引委員会の排除措置命令・取適法勧告のデータセットと MCP サーバー。361件・全件に出典URL。違反の判定はしない。",
+            "homepage": null,
+            "id": 1354601741,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-08T10:05:20Z",
+            "open_issues": 1,
+            "owner": "eoylab",
+            "repo": "jftc-actions",
+            "stars": 0,
+            "topics": [
+              "antitrust",
+              "competition-law",
+              "compliance",
+              "dataset",
+              "enforcement",
+              "japan",
+              "japanese",
+              "legal",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "open-data",
+              "regtech"
+            ]
+          },
+          "first_seen": "2026-09-10T11:32:34.723Z"
+        },
+        {
+          "node_type": "item",
           "title": "kvasir",
           "description": "[🇩🇪 🇦🇹 🇨🇭 🇪🇺 DACH/EU] Hosted MCP server over German federal and state law (Bavaria, NRW, Saxony, Brandenburg, Bremen), Austrian, Swiss and EU law — case law and citation edges, checked daily.",
           "children": [],
@@ -2054,7 +2124,6 @@
             "repo": "cobol-bridge-mcp",
             "stars": 0,
             "topics": [
-              "a-100-100",
               "ai",
               "ai-governance",
               "banking",
@@ -2100,7 +2169,7 @@
             "open_issues": 2,
             "owner": "apiotrowski-afk",
             "repo": "commercial-legal-pl",
-            "stars": 161,
+            "stars": 163,
             "topics": [
               "agent-skills",
               "b2b-contracts",
@@ -2176,11 +2245,11 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T04:01:38Z",
+            "last_commit": "2026-09-10T03:49:57Z",
             "open_issues": 68,
             "owner": "open-legal-products",
             "repo": "mike",
-            "stars": 4197,
+            "stars": 4201,
             "topics": [
               "legal-ai",
               "legal-tech"
@@ -2200,8 +2269,8 @@
             "id": 22257580,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T00:41:09Z",
-            "open_issues": 1037,
+            "last_commit": "2026-09-10T02:51:52Z",
+            "open_issues": 1041,
             "owner": "freelawproject",
             "repo": "courtlistener",
             "stars": 1011,
@@ -2272,7 +2341,7 @@
             "open_issues": 0,
             "owner": "sure-scale",
             "repo": "doc-haus",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "ai-agents",
               "docx",
@@ -2360,7 +2429,7 @@
             "id": 1243751570,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T10:44:01Z",
+            "last_commit": "2026-09-09T20:14:58Z",
             "open_issues": 14,
             "owner": "matematicsolutions",
             "repo": "patron",
@@ -2531,11 +2600,11 @@
                 "id": 996902617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T01:38:48Z",
+                "last_commit": "2026-09-10T02:44:44Z",
                 "open_issues": 10,
                 "owner": "i-dot-ai",
                 "repo": "lex",
-                "stars": 67,
+                "stars": 69,
                 "topics": [
                   "agent",
                   "agentic",
@@ -2586,7 +2655,7 @@
             "open_issues": 92,
             "owner": "accordproject",
             "repo": "template-archive",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "accord-project",
               "blockchain",
@@ -2621,11 +2690,11 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T10:15:26Z",
+            "last_commit": "2026-09-10T09:31:09Z",
             "open_issues": 5,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -2738,7 +2807,7 @@
             "open_issues": 0,
             "owner": "fayerman-source",
             "repo": "deslop",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2811,7 +2880,7 @@
             "open_issues": 17,
             "owner": "wraft",
             "repo": "wraft",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "business-writing",
               "clm",
@@ -2886,7 +2955,7 @@
             "open_issues": 0,
             "owner": "lowtidebuild",
             "repo": "contract-review",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -2903,7 +2972,7 @@
             "id": 1243883214,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-08T06:53:00Z",
+            "last_commit": "2026-09-10T06:35:02Z",
             "open_issues": 3,
             "owner": "aaked-app",
             "repo": "aakd",
@@ -2950,7 +3019,7 @@
             "open_issues": 148,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6977,
+            "stars": 6976,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3195,7 +3264,7 @@
             "open_issues": 20,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 633,
+            "stars": 634,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -3400,7 +3469,7 @@
             "open_issues": 2,
             "owner": "LEXam-Benchmark",
             "repo": "LEXam",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -3508,7 +3577,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504417,
+            "stars": 504677,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3557,7 +3626,7 @@
             "id": 614464281,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-07T12:06:57Z",
+            "last_commit": "2026-09-09T12:08:24Z",
             "open_issues": 1,
             "owner": "Jeryi-Sun",
             "repo": "LLM-and-Law",
@@ -3586,7 +3655,7 @@
             "open_issues": 10,
             "owner": "openlegaldata",
             "repo": "awesome-legal-data",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "datasets",
               "legal",
@@ -3601,7 +3670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:35:08.816Z",
+    "last_updated": "2026-09-10T11:32:34.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
@@ -3609,8 +3678,8 @@
       "id": 1179502630,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-06T17:37:39Z",
-      "open_issues": 18,
+      "last_commit": "2026-09-10T06:46:43Z",
+      "open_issues": 17,
       "owner": "Vaquill-AI",
       "repo": "awesome-legaltech",
       "stars": 217,
@@ -3621,7 +3690,7 @@
         "legaltech"
       ]
     },
-    "original_repository_sha": "c8820165ade12b288b72f08afe850153b4693f7b",
+    "original_repository_sha": "1ec9edc8c61aa9b65625b2c0f8ac7d46054d091d",
     "enhanced_repository": "enhansome/enhansome-legaltech",
     "enhanced_repository_description": null,
     "title": "Awesome Legaltech with stars"
