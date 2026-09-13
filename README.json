@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Vaquill-AI",
             "repo": "open-us-law",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "constitution",
               "court-rules",
@@ -59,7 +59,7 @@
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "open-legal-answer-benchmark",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "benchmark",
               "evaluation",
@@ -319,7 +319,7 @@
                 "open_issues": 13,
                 "owner": "ICLRandD",
                 "repo": "Blackstone",
-                "stars": 696,
+                "stars": 697,
                 "topics": [
                   "caselaw",
                   "law",
@@ -393,7 +393,7 @@
                 "open_issues": 16,
                 "owner": "zeweihan",
                 "repo": "aiworkdeck",
-                "stars": 140,
+                "stars": 145,
                 "topics": [
                   "ai-agents",
                   "ai-workspace",
@@ -531,7 +531,7 @@
                 "open_issues": 2,
                 "owner": "iliaschalkidis",
                 "repo": "LegalCrawler",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -631,7 +631,7 @@
                 "open_issues": 2,
                 "owner": "Vaquill-AI",
                 "repo": "open-us-law",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "constitution",
                   "court-rules",
@@ -727,7 +727,7 @@
                 "open_issues": 1,
                 "owner": "coastalcph",
                 "repo": "lex-glue",
-                "stars": 269,
+                "stars": 271,
                 "topics": [
                   "benchmark",
                   "lawtech",
@@ -904,7 +904,7 @@
                 "open_issues": 65,
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7602,
+                "stars": 7603,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1013,7 +1013,7 @@
                 "open_issues": 20,
                 "owner": "ilhamfp",
                 "repo": "pasal",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "ai-native",
                   "anthropic",
@@ -1115,11 +1115,11 @@
             "id": 1119492821,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T20:37:50Z",
+            "last_commit": "2026-09-12T13:07:26Z",
             "open_issues": 0,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2575,
+            "stars": 2577,
             "topics": [
               "citation-verification",
               "claude",
@@ -1187,7 +1187,7 @@
             "open_issues": 20,
             "owner": "ilhamfp",
             "repo": "pasal",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "ai-native",
               "anthropic",
@@ -1222,7 +1222,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-24T16:25:46Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "lawchat-oss",
             "repo": "mcp-taiwan-legal-db",
             "stars": 190,
@@ -1251,8 +1251,8 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T09:31:09Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-13T09:30:08Z",
+            "open_issues": 9,
             "owner": "dealfluence",
             "repo": "adeu",
             "stars": 156,
@@ -1307,7 +1307,7 @@
             "open_issues": 0,
             "owner": "Mahender22",
             "repo": "legal-mcp",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1366,11 +1366,11 @@
             "id": 1072616978,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T01:04:38Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-12T14:51:30Z",
+            "open_issues": 11,
             "owner": "russellbrenner",
             "repo": "jurisd",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "agentic-ai",
               "agentic-coding",
@@ -1543,11 +1543,11 @@
             "id": 1078136016,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T22:29:35Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-13T05:05:12Z",
+            "open_issues": 8,
             "owner": "numikel",
             "repo": "law-scrapper-mcp",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1693,7 +1693,7 @@
             "id": 1205079484,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T18:47:27Z",
+            "last_commit": "2026-09-13T11:01:12Z",
             "open_issues": 2,
             "owner": "alperu",
             "repo": "soundsuite",
@@ -1835,6 +1835,38 @@
               "mcp-server",
               "model-context-protocol",
               "sparql"
+            ]
+          },
+          "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EU Compliance MCP (offline)",
+          "description": "[🇪🇺 EU] Offline MCP corpus of EU law (GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA): full text in a local SQLite FTS5 index, verbatim retrieval, no LLM in the loop; runs air-gapped. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Offline MCP corpus of EU law (EUR-Lex full text via local SQLite FTS5, verbatim zero-LLM): GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA",
+            "homepage": "https://matematicsolutions.com",
+            "id": 1247070035,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-07-28T14:32:39Z",
+            "open_issues": 0,
+            "owner": "matematicsolutions",
+            "repo": "mcp-eu-compliance",
+            "stars": 1,
+            "topics": [
+              "ai-agent",
+              "compliance",
+              "eu-law",
+              "eur-lex",
+              "european-union",
+              "legal",
+              "legaltech",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol"
             ]
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -2076,38 +2108,6 @@
         },
         {
           "node_type": "item",
-          "title": "EU Compliance MCP (offline)",
-          "description": "[🇪🇺 EU] Offline MCP corpus of EU law (GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA): full text in a local SQLite FTS5 index, verbatim retrieval, no LLM in the loop; runs air-gapped. MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Offline MCP corpus of EU law (EUR-Lex full text via local SQLite FTS5, verbatim zero-LLM): GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA",
-            "homepage": "https://matematicsolutions.com",
-            "id": 1247070035,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-07-28T14:32:39Z",
-            "open_issues": 0,
-            "owner": "matematicsolutions",
-            "repo": "mcp-eu-compliance",
-            "stars": 0,
-            "topics": [
-              "ai-agent",
-              "compliance",
-              "eu-law",
-              "eur-lex",
-              "european-union",
-              "legal",
-              "legaltech",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol"
-            ]
-          },
-          "first_seen": "2026-08-28T18:51:13.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "CSOAI Legacy Bridges",
           "description": "[🇪🇺 EU] [Open Source] Governed-MCP bridges that parse legacy-system payloads (COBOL, ISO-20022, HL7, SAP, SCADA) and check each action against EU AI Act, DORA, NIS2 and HIPAA, emitting an Ed25519-signed, offline-verifiable NIST OSCAL audit package (Article-12 evidence). 22 bridges plus a signed Layer-0 package validated under compliance-trestle.",
           "children": [],
@@ -2245,11 +2245,11 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-12T06:59:57Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-12T15:16:18Z",
+            "open_issues": 56,
             "owner": "open-legal-products",
             "repo": "mike",
-            "stars": 4213,
+            "stars": 4219,
             "topics": [
               "legal-ai",
               "legal-tech"
@@ -2273,7 +2273,7 @@
             "open_issues": 1044,
             "owner": "freelawproject",
             "repo": "courtlistener",
-            "stars": 1012,
+            "stars": 1014,
             "topics": [
               "courts",
               "government",
@@ -2299,7 +2299,7 @@
             "open_issues": 12,
             "owner": "zoharbabin",
             "repo": "due-diligence-agents",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -2341,7 +2341,7 @@
             "open_issues": 0,
             "owner": "sure-scale",
             "repo": "doc-haus",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "ai-agents",
               "docx",
@@ -2690,8 +2690,8 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T09:31:09Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-13T09:30:08Z",
+            "open_issues": 9,
             "owner": "dealfluence",
             "repo": "adeu",
             "stars": 156,
@@ -2754,7 +2754,7 @@
             "id": 323679025,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:12:36Z",
+            "last_commit": "2026-09-12T22:55:06Z",
             "open_issues": 95,
             "owner": "SuffolkLITLab",
             "repo": "docassemble-AssemblyLine",
@@ -2877,7 +2877,7 @@
             "language": "Elixir",
             "license": "AGPL-3.0",
             "last_commit": "2026-07-04T08:33:24Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "wraft",
             "repo": "wraft",
             "stars": 165,
@@ -2915,7 +2915,7 @@
             "open_issues": 3,
             "owner": "evolsb",
             "repo": "legal-redline-tools",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "agent-skills",
               "agent-tools",
@@ -3019,7 +3019,7 @@
             "open_issues": 149,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 6985,
+            "stars": 6986,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3469,7 +3469,7 @@
             "open_issues": 2,
             "owner": "LEXam-Benchmark",
             "repo": "LEXam",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -3490,7 +3490,7 @@
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "open-legal-answer-benchmark",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "benchmark",
               "evaluation",
@@ -3577,7 +3577,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505290,
+            "stars": 505586,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3670,7 +3670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T10:58:03.792Z",
+    "last_updated": "2026-09-13T12:06:46.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
