@@ -249,17 +249,17 @@ Domain-specific encoder models for legal text similarity, classification, and re
 
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers that connect AI assistants to legal data sources and workflows.
 
-* [Korean Law MCP](https://github.com/chrisryugj/korean-law-mcp) ⭐ 2,626 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - **\[🇰🇷 Korea]** 17 MCP tools wrapping 41 Korean government legal APIs; includes citation verification, impact graph, and time-travel diff.
-* [SEC EDGAR MCP](https://github.com/stefanoamorelli/sec-edgar-mcp) ⭐ 362 | 🐛 13 | 🌐 Python | 📅 2026-10-01 - **\[🇺🇸 US]** MCP for SEC EDGAR filings, financial statements, and insider-trading data — useful for securities and corporate-disclosure workflows.
+* [Korean Law MCP](https://github.com/chrisryugj/korean-law-mcp) ⭐ 2,629 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - **\[🇰🇷 Korea]** 17 MCP tools wrapping 41 Korean government legal APIs; includes citation verification, impact graph, and time-travel diff.
+* [SEC EDGAR MCP](https://github.com/stefanoamorelli/sec-edgar-mcp) ⭐ 362 | 🐛 13 | 🌐 Python | 📅 2026-10-03 - **\[🇺🇸 US]** MCP for SEC EDGAR filings, financial statements, and insider-trading data — useful for securities and corporate-disclosure workflows.
 * [Pasal MCP](https://github.com/ilhamfp/pasal) ⭐ 275 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-01 - **\[🇮🇩 Indonesia]** MCP + REST + web app giving AI grounded access to 40k+ Indonesian regulations.
 * [MCP Taiwan Legal DB](https://github.com/lawchat-oss/mcp-taiwan-legal-db) ⭐ 197 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - **\[🇹🇼 Taiwan]** Taiwan Judicial Yuan judgments + national statute database via MCP.
-* [adeu (Agentic DOCX Redlining Engine)](https://github.com/dealfluence/adeu) ⭐ 164 | 🐛 7 | 🌐 Python | 📅 2026-09-29 - MCP Server enabling LLMs to inject native Track Changes and Comments into Word documents.
+* [adeu (Agentic DOCX Redlining Engine)](https://github.com/dealfluence/adeu) ⭐ 165 | 🐛 7 | 🌐 Python | 📅 2026-09-29 - MCP Server enabling LLMs to inject native Track Changes and Comments into Word documents.
 * [ayunis-legal-mcp](https://github.com/ayunis-core/ayunis-legal-mcp) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2026-09-29 - **\[🇩🇪 Germany]** MCP server exposing German legal codes (Gesetze-im-Internet).
 * [Master Claude for Legal](https://github.com/sboghossian/master-claude-for-legal) ⭐ 68 | 🐛 1 | 📅 2026-05-18 - **\[Open Source]** - **\[MIT]** - Skill pack for legal teams using Claude with MCP connectors. 10 reference docs (privilege, verification, long documents, practice areas), 5 starter skills (NDA triage, version diff, meeting brief, citation verifier, status synthesis), 3 firm templates. Includes the source Anthropic legal-webinar transcript and 51-question dataset.
 * [Mahender22/legal-mcp](https://github.com/Mahender22/legal-mcp) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2026-06-19 - **\[🇺🇸 US]** 18 MCP tools across CourtListener case law (4M+ opinions, 400+ US courts), PACER federal filings, and Clio practice-management.
 * [mcp-server-legifrance](https://github.com/pylegifrance/mcp-server-legifrance) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2025-06-29 - **\[🇫🇷 France]** MCP that wraps the official Légifrance/PISTE API for searching French statutes, codes, and judicial jurisprudence.
 * [agentic-ops/legal-mcp](https://github.com/agentic-ops/legal-mcp) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2026-07-17 - Comprehensive MCP server for legal workflows. Integrates AI assistants with legal databases and case management systems (Clio, etc.).
-* [auslaw-mcp](https://github.com/russellbrenner/auslaw-mcp) ⭐ 36 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-03 - **\[🇦🇺 🇳🇿 AU/NZ]** MCP server searching AustLII case law and legislation with OCR for scanned PDFs.
+* [auslaw-mcp](https://github.com/russellbrenner/auslaw-mcp) ⭐ 37 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-03 - **\[🇦🇺 🇳🇿 AU/NZ]** MCP server searching AustLII case law and legislation with OCR for scanned PDFs.
 * [droit-francais-mcp](https://github.com/jmtanguy/droit-francais-mcp) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2025-11-21 - **\[🇫🇷 France]** Unified MCP over Légifrance (legislation/codes/decrees) plus JudiLibre (case law) with PISTE-auth.
 * [mcp-cerebra-legal-server](https://github.com/yoda-digital/mcp-cerebra-legal-server) ⭐ 33 | 🐛 2 | 🌐 TypeScript | 📅 2025-03-24 - MCP providing structured legal-reasoning tools (`legal_think`, follow-up, completion) with domain templates for contract, consumer-protection, and French procurement analysis.
 * [Emilie](https://github.com/veronica-builds/emilie) ⭐ 32 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-25 - **\[🇨🇭 Switzerland]** Swiss sovereign legal AI; Mike fork extended with MCP client and local Apertus model support.
@@ -309,8 +309,8 @@ Comprehensive platforms that handle multiple functions across the legal workflow
 
 * [Mike](https://github.com/willchen96/mike) ⭐ 4,294 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-03 - **\[Open Source]** Legal document assistant (Next.js + Express + Supabase + S3/R2) that lets users chat with uploaded documents using Anthropic, Gemini, or OpenAI models; BYOK per user. Hosted at [mikeoss.com](https://mikeoss.com).
 * [CourtListener (source)](https://github.com/freelawproject/courtlistener) ⭐ 1,036 | 🐛 1,068 | 🌐 Python | 📅 2026-10-03 - **\[Open Source]** Django source for the largest open US court-data archive (RECAP, opinions, oral arguments, judges) maintained by Free Law Project.
-* [dd-agents](https://github.com/zoharbabin/due-diligence-agents) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2026-09-29 - **\[Open Source]** M\&A due diligence platform orchestrating 13 AI agents (Legal, Finance, Commercial, ProductTech, Cybersecurity, HR, Tax, Regulatory, ESG + Judge, Red Flag Scanner, Executive Synthesis, Acquirer Intelligence) across a 38-step pipeline. Interactive chat mode with 14 MCP tools for citation verification, cross-contract search, and document generation. Neurosymbolic cross-domain analysis routes findings between domains via deterministic rules. Apache 2.0, `pip install dd-agents`.
-* [doc.haus](https://github.com/sure-scale/doc-haus) ⭐ 77 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-13 - **\[Open Source]** Self-hostable legal AI agent built as a fork of [OpenCode](https://github.com/anomalyco/opencode) ⭐ 211,523 | 🐛 6,193 | 🌐 TypeScript | 📅 2026-10-03; documents stay on the user's machine, with matter-scoped private workspaces, cited document Q\&A, and tracked-change DOCX redlines that open in Word.
+* [dd-agents](https://github.com/zoharbabin/due-diligence-agents) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2026-09-29 - **\[Open Source]** M\&A due diligence platform orchestrating 13 AI agents (Legal, Finance, Commercial, ProductTech, Cybersecurity, HR, Tax, Regulatory, ESG + Judge, Red Flag Scanner, Executive Synthesis, Acquirer Intelligence) across a 38-step pipeline. Interactive chat mode with 14 MCP tools for citation verification, cross-contract search, and document generation. Neurosymbolic cross-domain analysis routes findings between domains via deterministic rules. Apache 2.0, `pip install dd-agents`.
+* [doc.haus](https://github.com/sure-scale/doc-haus) ⭐ 77 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-13 - **\[Open Source]** Self-hostable legal AI agent built as a fork of [OpenCode](https://github.com/anomalyco/opencode) ⭐ 211,571 | 🐛 6,230 | 🌐 TypeScript | 📅 2026-10-03; documents stay on the user's machine, with matter-scoped private workspaces, cited document Q\&A, and tracked-change DOCX redlines that open in Word.
 * [Suzie Law](https://github.com/firelex/suzielaw) ⭐ 67 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-18 - **\[Open Source]** Self-hostable Harvey alternative built on Team Suzie: chat assistant ("Counsel"), 12 practice-area personas, 160+ agentic workflows, document Q\&A with citations, tracked-change redlines, DOCX drafting, and unified legal research across 19 jurisdictions (US, UK, EU, FR, DE, IN, AU, etc.).
 * [Legal Document Chat](https://github.com/janderswag/legal-document-chat) ⭐ 35 | 🐛 6 | 🌐 Python | 📅 2026-07-22 - **\[Open Source]** Self-hosted document chat for attorneys that parses legal PDFs and answers questions using local open-source LLMs (Ollama), with page- and span-level citations mechanically verified against the source; runs fully offline (loopback-only, no cloud calls) on FastAPI + LanceDB (MIT).
 * [Patron](https://github.com/matematicsolutions/patron) ⭐ 15 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-01 - **\[🇵🇱 Poland]** **\[Open Source]** Self-hosted AI agent for law firms; hard fork of Mike extended with a hash-chained audit trail (EU AI Act art. 12 record-keeping), bring-your-own-model, 9 language editions, and MCP connectors for Polish and EU primary law. AGPL-3.0.
@@ -1137,7 +1137,7 @@ Software for generating, assembling, and reviewing legal documents.
 
 * [Accord Project Template Archive](https://github.com/accordproject/template-archive) ⭐ 368 | 🐛 93 | 🌐 TypeScript | 📅 2026-10-01 - **\[Open Source]** Smart legal contracts and templating system (Cicero / Concerto).
 
-* [adeu](https://github.com/dealfluence/adeu) ⭐ 164 | 🐛 7 | 🌐 Python | 📅 2026-09-29 - **\[Open Source]** Agentic DOCX Redlining Engine for Word document Track Changes.
+* [adeu](https://github.com/dealfluence/adeu) ⭐ 165 | 🐛 7 | 🌐 Python | 📅 2026-09-29 - **\[Open Source]** Agentic DOCX Redlining Engine for Word document Track Changes.
 
 * [Vaquill AI for Word](https://github.com/Vaquill-AI/vaquill-word-addin) ⭐ 74 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - **\[Open Source]** Microsoft Word task-pane add-in for contract review, grounded redlining as native tracked changes, drafting, and US legal research. A community build runs standalone on your own OpenAI or Anthropic key. Apache-2.0. *(Sponsor)*
 
@@ -1145,7 +1145,7 @@ Software for generating, assembling, and reviewing legal documents.
 
 * [open-agreements](https://github.com/CommonAccord/Cmacc-Org) ⭐ 51 | 🐛 13 | 🌐 HTML | 📅 2026-09-30 - **\[Open Source]** CommonAccord: legal documents as structured, linkable data.
 
-* [deslop](https://github.com/fayerman-source/deslop) ⭐ 19 | 🐛 1 | 📅 2026-09-01 - **\[Open Source]** Portable AI agent skill that rewrites legalese into plain English while preserving binding terms of art.
+* [deslop](https://github.com/fayerman-source/deslop) ⭐ 19 | 🐛 0 | 📅 2026-10-03 - **\[Open Source]** Portable AI agent skill that rewrites legalese into plain English while preserving binding terms of art.
 
 * [Vaquill for Google Docs](https://github.com/Vaquill-AI/vaquill-google-docs-addon) ⭐ 4 | 🐛 0 | 🌐 Svelte | 📅 2026-09-06 - **\[Open Source]** Google Docs sidebar add-on (Svelte 5 + Apps Script) for contract review, clause drafting and rewrite, and grounded chat, with native tracked-change redlines. Apache-2.0. *(Sponsor)*
 
@@ -1188,7 +1188,7 @@ Platforms for patent searching, analytics, and intellectual property portfolio m
 
 Platforms for managing contracts from creation through execution, obligations, and renewal.
 
-* [Wraft](https://github.com/wraft/wraft) ⭐ 166 | 🐛 19 | 🌐 Elixir | 📅 2026-09-29 - **\[Open Source]** Document lifecycle management with version control.
+* [Wraft](https://github.com/wraft/wraft) ⭐ 166 | 🐛 17 | 🌐 Elixir | 📅 2026-10-03 - **\[Open Source]** Document lifecycle management with version control.
 
 * [legal-redline-tools](https://github.com/evolsb/legal-redline-tools) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2026-07-23 - **\[Open Source]** Generates tracked-changes Word docs and redline PDFs from AI contract reviews.
 
@@ -1430,7 +1430,7 @@ Academic journals publishing peer-reviewed legal-technology, computational-law, 
 
 Resources for evaluating AI and NLP systems on legal tasks.
 
-* [LegalBench](https://github.com/HazyResearch/legalbench) ⭐ 642 | 🐛 21 | 🌐 Python | 📅 2026-03-30 - 162-task benchmark for English legal reasoning in LLMs. Live leaderboard maintained at [vals.ai](https://vals.ai).
+* [LegalBench](https://github.com/HazyResearch/legalbench) ⭐ 643 | 🐛 21 | 🌐 Python | 📅 2026-03-30 - 162-task benchmark for English legal reasoning in LLMs. Live leaderboard maintained at [vals.ai](https://vals.ai).
 * [LawBench](https://github.com/open-compass/LawBench) ⭐ 453 | 🐛 4 | 🌐 Python | 📅 2023-11-13 - 20-task Chinese legal benchmark evaluating LLMs across three cognitive levels.
 * [maastrichtlawtech/awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) ⭐ 342 | 🐛 8 | 📅 2025-10-14 - Curated list of Legal NLP resources, models, datasets, and papers.
 * [LegalBench-RAG](https://github.com/zeroentropy-ai/legalbenchrag) ⭐ 208 | 🐛 3 | 🌐 Python | 📅 2025-05-30 - First retrieval benchmark for legal RAG: 6,858 expert-annotated query/span pairs over 79M characters of NDAs, M\&A agreements, commercial contracts, and privacy policies (arXiv:2408.10343).
@@ -1610,7 +1610,7 @@ Stay current with the legaltech ecosystem.
 
 ## Related Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02 - The original meta awesome list.
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 513,908 | 🐛 106 | 📅 2026-09-02 - The original meta awesome list.
 * [maastrichtlawtech/awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) ⭐ 342 | 🐛 8 | 📅 2025-10-14 - Legal NLP papers, models, and datasets.
 * [Jeryi-Sun/LLM-and-Law](https://github.com/Jeryi-Sun/LLM-and-Law) ⭐ 334 | 🐛 1 | 📅 2026-09-18 - Continually-updated paper list on LLMs applied to law.
 * [openlegaldata/awesome-legal-data](https://github.com/openlegaldata/awesome-legal-data) ⭐ 312 | 🐛 17 | 📅 2026-09-02 - Curated collection of legal text-processing datasets and resources.

@@ -1146,7 +1146,7 @@
             "open_issues": 0,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2626,
+            "stars": 2629,
             "topics": [
               "citation-verification",
               "claude",
@@ -1177,7 +1177,7 @@
             "id": 958733763,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T10:17:06Z",
+            "last_commit": "2026-10-03T09:11:21Z",
             "open_issues": 13,
             "owner": "stefanoamorelli",
             "repo": "sec-edgar-mcp",
@@ -1248,7 +1248,7 @@
             "id": 1206910786,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:34:44Z",
+            "last_commit": "2026-10-03T11:38:00Z",
             "open_issues": 1,
             "owner": "lawchat-oss",
             "repo": "mcp-taiwan-legal-db",
@@ -1282,7 +1282,7 @@
             "open_issues": 7,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -1418,7 +1418,7 @@
             "open_issues": 12,
             "owner": "russellbrenner",
             "repo": "jurisd",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "agentic-ai",
               "agentic-coding",
@@ -2326,7 +2326,7 @@
             "open_issues": 5,
             "owner": "zoharbabin",
             "repo": "due-diligence-agents",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -2721,7 +2721,7 @@
             "open_issues": 7,
             "owner": "dealfluence",
             "repo": "adeu",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "ai-agents",
               "document-automation",
@@ -2825,13 +2825,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A professional plain English style guide and agent skill that translates legalese and purges AI slop.",
+            "description": "Plain-English legal writing skill for AI agents (Claude Code, Codex, Antigravity). Audits and rewrites legalese and AI slop into clear prose using Garner's plain-language rules.",
             "homepage": null,
             "id": 1259558144,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-01T02:07:33Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T08:12:45Z",
+            "open_issues": 0,
             "owner": "fayerman-source",
             "repo": "deslop",
             "stars": 19,
@@ -2844,8 +2844,10 @@
               "clarity",
               "claude",
               "claude-code",
+              "claude-skills",
               "codex",
               "deslop",
+              "developer-tools",
               "legal-tech",
               "legal-writing",
               "legalese",
@@ -2903,8 +2905,8 @@
             "id": 856216972,
             "language": "Elixir",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T13:39:54Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-03T05:30:52Z",
+            "open_issues": 17,
             "owner": "wraft",
             "repo": "wraft",
             "stars": 166,
@@ -3291,7 +3293,7 @@
             "open_issues": 21,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 642,
+            "stars": 643,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -3604,7 +3606,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513797,
+            "stars": 513908,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3697,7 +3699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:05.817Z",
+    "last_updated": "2026-10-03T11:50:24.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
