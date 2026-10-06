@@ -281,7 +281,7 @@
                 "open_issues": 1,
                 "owner": "shcherbak-ai",
                 "repo": "contextgem",
-                "stars": 2005,
+                "stars": 2006,
                 "topics": [
                   "ai",
                   "autoprompting",
@@ -346,7 +346,7 @@
                 "open_issues": 301,
                 "owner": "freelawproject",
                 "repo": "juriscraper",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "courts",
                   "government",
@@ -1146,7 +1146,7 @@
             "open_issues": 0,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2642,
+            "stars": 2643,
             "topics": [
               "citation-verification",
               "claude",
@@ -2272,8 +2272,8 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:28:06Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-06T11:24:11Z",
+            "open_issues": 35,
             "owner": "open-legal-products",
             "repo": "mike",
             "stars": 4304,
@@ -2300,7 +2300,7 @@
             "open_issues": 1046,
             "owner": "freelawproject",
             "repo": "courtlistener",
-            "stars": 1035,
+            "stars": 1036,
             "topics": [
               "courts",
               "government",
@@ -3048,7 +3048,7 @@
             "open_issues": 153,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 7058,
+            "stars": 7059,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3606,7 +3606,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515367,
+            "stars": 515431,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3655,7 +3655,7 @@
             "id": 614464281,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-05T12:05:38Z",
+            "last_commit": "2026-10-06T12:07:32Z",
             "open_issues": 1,
             "owner": "Jeryi-Sun",
             "repo": "LLM-and-Law",
@@ -3699,7 +3699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:50:32.840Z",
+    "last_updated": "2026-10-06T13:26:57.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
