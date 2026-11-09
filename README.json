@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "Vaquill-AI",
             "repo": "open-us-law",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "constitution",
               "court-rules",
@@ -88,7 +88,7 @@
             "open_issues": 3,
             "owner": "Vaquill-AI",
             "repo": "ms-word-addin",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "ai-assistant",
               "contract-review",
@@ -277,11 +277,11 @@
                 "id": 871373324,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T20:09:59Z",
+                "last_commit": "2026-11-09T14:17:33Z",
                 "open_issues": 0,
                 "owner": "shcherbak-ai",
                 "repo": "contextgem",
-                "stars": 2077,
+                "stars": 2080,
                 "topics": [
                   "ai",
                   "data-extraction",
@@ -346,8 +346,8 @@
                 "id": 22757589,
                 "language": "HTML",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-06T22:32:15Z",
-                "open_issues": 368,
+                "last_commit": "2026-11-09T16:31:36Z",
+                "open_issues": 369,
                 "owner": "freelawproject",
                 "repo": "juriscraper",
                 "stars": 657,
@@ -373,7 +373,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-01T09:27:50Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "freelawproject",
                 "repo": "eyecite",
                 "stars": 300,
@@ -393,11 +393,11 @@
                 "id": 1138989235,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T12:28:53Z",
+                "last_commit": "2026-11-09T13:42:46Z",
                 "open_issues": 26,
                 "owner": "AI-WorkDeck",
                 "repo": "aiworkdeck",
-                "stars": 170,
+                "stars": 172,
                 "topics": [
                   "ai-agents",
                   "ai-workspace",
@@ -438,7 +438,7 @@
                 "open_issues": 2,
                 "owner": "isaacus-dev",
                 "repo": "open-australian-legal-corpus-creator",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "australia",
                   "corpus",
@@ -555,7 +555,7 @@
                 "open_issues": 23,
                 "owner": "allenai",
                 "repo": "s2orc",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -600,7 +600,7 @@
                 "open_issues": 7,
                 "owner": "Vaquill-AI",
                 "repo": "open-us-law",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "constitution",
                   "court-rules",
@@ -723,7 +723,7 @@
                 "open_issues": 1,
                 "owner": "coastalcph",
                 "repo": "lex-glue",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "benchmark",
                   "lawtech",
@@ -900,7 +900,7 @@
                 "open_issues": 66,
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7631,
+                "stars": 7630,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -978,7 +978,7 @@
                 "open_issues": 15,
                 "owner": "irlab-sdu",
                 "repo": "fuzi.mingcha",
-                "stars": 397,
+                "stars": 398,
                 "topics": [
                   "chatglm-6b",
                   "judicial",
@@ -1115,7 +1115,7 @@
             "open_issues": 2,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2849,
+            "stars": 2851,
             "topics": [
               "case-law",
               "citation-verification",
@@ -1157,7 +1157,7 @@
             "open_issues": 14,
             "owner": "stefanoamorelli",
             "repo": "sec-edgar-mcp",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1285,7 +1285,7 @@
             "id": 1093348345,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T16:37:05Z",
+            "last_commit": "2026-11-08T15:18:59Z",
             "open_issues": 1,
             "owner": "ayunis-core",
             "repo": "ayunis-legal-mcp",
@@ -1373,7 +1373,7 @@
             "open_issues": 25,
             "owner": "russellbrenner",
             "repo": "jurisd",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "agentic-ai",
               "agentic-coding",
@@ -1446,27 +1446,6 @@
         },
         {
           "node_type": "item",
-          "title": "mcp-cerebra-legal-server",
-          "description": "MCP providing structured legal-reasoning tools (, follow-up, completion) with domain templates for contract, consumer-protection, and French procurement analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 953752336,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2025-03-24T11:31:52Z",
-            "open_issues": 2,
-            "owner": "yoda-digital",
-            "repo": "mcp-cerebra-legal-server",
-            "stars": 33,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:51:13.190Z"
-        },
-        {
-          "node_type": "item",
           "title": "LibreJustice",
           "description": "[🇫🇷 France] Remote MCP server (OAuth 2.1) over French case law and French legal texts as they stood on any past date, plus CJEU and ECHR case law; also available as a web UI and REST API. Apache-2.0.",
           "children": [],
@@ -1481,7 +1460,7 @@
             "open_issues": 0,
             "owner": "librejustice",
             "repo": "librejustice",
-            "stars": 32,
+            "stars": 34,
             "topics": [
               "agent-skills",
               "case-law",
@@ -1504,6 +1483,27 @@
             ]
           },
           "first_seen": "2026-10-26T13:20:39.405Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-cerebra-legal-server",
+          "description": "MCP providing structured legal-reasoning tools (, follow-up, completion) with domain templates for contract, consumer-protection, and French procurement analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 953752336,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2025-03-24T11:31:52Z",
+            "open_issues": 2,
+            "owner": "yoda-digital",
+            "repo": "mcp-cerebra-legal-server",
+            "stars": 33,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:51:13.190Z"
         },
         {
           "node_type": "item",
@@ -1565,12 +1565,43 @@
             "id": 1078136016,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T12:15:54Z",
+            "last_commit": "2026-11-08T17:39:05Z",
             "open_issues": 6,
             "owner": "numikel",
             "repo": "law-scrapper-mcp",
             "stars": 23,
             "topics": []
+          },
+          "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "direito-familiar-imobiliario",
+          "description": "[🇧🇷 Brazil] [Claude Code Skill] [pt-BR] Civil-law skill orienting laypeople through real estate regularization (usucapião, REURB, matrícula), divorce (5 marital regimes, partilha, meação), and inheritance (inventário, ITCMD). Legislation current to May 2026 — includes Resolução CNJ 571/2024, Provimento CNJ 149/2023, LC 227/2026 (progressive ITCMD), Lei 14.711/2023 (Marco Legal das Garantias). Glossary (150+ terms), document checklists, interactive cost calculator, 75+ targeted questions for the attorney. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Skill para Claude Code que orienta pessoas leigas em casos brasileiros de direito imobiliário (regularização, usucapião, REURB) e direito de família/sucessões (divórcio, partilha, inventário, herança). Legislação atualizada até maio/2026.",
+            "homepage": null,
+            "id": 1247164662,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-05-23T02:26:24Z",
+            "open_issues": 0,
+            "owner": "maiconfuhr",
+            "repo": "direito-familiar-imobiliario",
+            "stars": 14,
+            "topics": [
+              "claude-code",
+              "claude-skill",
+              "direito-brasileiro",
+              "direito-familia",
+              "direito-imobiliario",
+              "juridico",
+              "legaltech-brasil",
+              "portugues-brasileiro",
+              "sucessoes"
+            ]
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
         },
@@ -1592,37 +1623,6 @@
             "repo": "court-listener-mcp",
             "stars": 13,
             "topics": []
-          },
-          "first_seen": "2026-08-28T18:51:13.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "direito-familiar-imobiliario",
-          "description": "[🇧🇷 Brazil] [Claude Code Skill] [pt-BR] Civil-law skill orienting laypeople through real estate regularization (usucapião, REURB, matrícula), divorce (5 marital regimes, partilha, meação), and inheritance (inventário, ITCMD). Legislation current to May 2026 — includes Resolução CNJ 571/2024, Provimento CNJ 149/2023, LC 227/2026 (progressive ITCMD), Lei 14.711/2023 (Marco Legal das Garantias). Glossary (150+ terms), document checklists, interactive cost calculator, 75+ targeted questions for the attorney. MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Skill para Claude Code que orienta pessoas leigas em casos brasileiros de direito imobiliário (regularização, usucapião, REURB) e direito de família/sucessões (divórcio, partilha, inventário, herança). Legislação atualizada até maio/2026.",
-            "homepage": null,
-            "id": 1247164662,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-05-23T02:26:24Z",
-            "open_issues": 0,
-            "owner": "maiconfuhr",
-            "repo": "direito-familiar-imobiliario",
-            "stars": 13,
-            "topics": [
-              "claude-code",
-              "claude-skill",
-              "direito-brasileiro",
-              "direito-familia",
-              "direito-imobiliario",
-              "juridico",
-              "legaltech-brasil",
-              "portugues-brasileiro",
-              "sucessoes"
-            ]
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
         },
@@ -2238,11 +2238,11 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T23:06:02Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-09T01:20:37Z",
+            "open_issues": 88,
             "owner": "open-legal-products",
             "repo": "mike",
-            "stars": 4433,
+            "stars": 4437,
             "topics": [
               "legal-ai",
               "legal-tech"
@@ -2262,11 +2262,11 @@
             "id": 22257580,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T01:42:11Z",
-            "open_issues": 1111,
+            "last_commit": "2026-11-08T14:24:28Z",
+            "open_issues": 1108,
             "owner": "freelawproject",
             "repo": "courtlistener",
-            "stars": 1064,
+            "stars": 1065,
             "topics": [
               "courts",
               "government",
@@ -2292,7 +2292,7 @@
             "open_issues": 5,
             "owner": "zoharbabin",
             "repo": "due-diligence-agents",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -2330,8 +2330,8 @@
             "id": 1260997792,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T23:43:55Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-09T09:31:06Z",
+            "open_issues": 0,
             "owner": "sure-scale",
             "repo": "doc-haus",
             "stars": 80,
@@ -2422,7 +2422,7 @@
             "id": 1243751570,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T01:45:21Z",
+            "last_commit": "2026-11-09T15:43:02Z",
             "open_issues": 14,
             "owner": "matematicsolutions",
             "repo": "patron",
@@ -2645,7 +2645,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T20:15:49Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "accordproject",
             "repo": "template-archive",
             "stars": 380,
@@ -2718,7 +2718,7 @@
             "open_issues": 3,
             "owner": "Vaquill-AI",
             "repo": "ms-word-addin",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "ai-assistant",
               "contract-review",
@@ -3014,7 +3014,7 @@
             "open_issues": 215,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 7237,
+            "stars": 7242,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3413,7 +3413,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-04-10T10:03:56Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "CSHaitao",
             "repo": "LegalAgentBench",
             "stars": 53,
@@ -3572,7 +3572,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 533579,
+            "stars": 534142,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3647,7 +3647,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-20T19:10:55Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "openlegaldata",
             "repo": "awesome-legal-data",
             "stars": 328,
@@ -3789,7 +3789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:40:18.432Z",
+    "last_updated": "2026-11-09T16:39:59.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
@@ -3801,7 +3801,7 @@
       "open_issues": 20,
       "owner": "Vaquill-AI",
       "repo": "awesome-legaltech",
-      "stars": 265,
+      "stars": 267,
       "topics": [
         "awesome",
         "awesome-list",
