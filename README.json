@@ -144,7 +144,7 @@
             "id": 1174441422,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T19:03:26Z",
+            "last_commit": "2026-11-10T17:48:51Z",
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "vaquill-mcp",
@@ -281,7 +281,7 @@
                 "open_issues": 0,
                 "owner": "shcherbak-ai",
                 "repo": "contextgem",
-                "stars": 2081,
+                "stars": 2084,
                 "topics": [
                   "ai",
                   "data-extraction",
@@ -346,7 +346,7 @@
                 "id": 22757589,
                 "language": "HTML",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-09T21:41:29Z",
+                "last_commit": "2026-11-10T15:47:56Z",
                 "open_issues": 371,
                 "owner": "freelawproject",
                 "repo": "juriscraper",
@@ -373,7 +373,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-01T09:27:50Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "freelawproject",
                 "repo": "eyecite",
                 "stars": 301,
@@ -393,11 +393,11 @@
                 "id": 1138989235,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-10T14:48:43Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-11T14:25:28Z",
+                "open_issues": 30,
                 "owner": "AI-WorkDeck",
                 "repo": "aiworkdeck",
-                "stars": 174,
+                "stars": 176,
                 "topics": [
                   "ai-agents",
                   "ai-workspace",
@@ -555,7 +555,7 @@
                 "open_issues": 23,
                 "owner": "allenai",
                 "repo": "s2orc",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -576,7 +576,7 @@
                 "open_issues": 0,
                 "owner": "39la",
                 "repo": "gitlaw-jp",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "legal-tech",
                   "legaltech"
@@ -900,7 +900,7 @@
                 "open_issues": 66,
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7630,
+                "stars": 7633,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -952,7 +952,7 @@
                 "open_issues": 31,
                 "owner": "FudanDISC",
                 "repo": "DISC-LawLLM",
-                "stars": 957,
+                "stars": 958,
                 "topics": [
                   "domain-llm",
                   "legal-intelligence",
@@ -978,7 +978,7 @@
                 "open_issues": 15,
                 "owner": "irlab-sdu",
                 "repo": "fuzi.mingcha",
-                "stars": 398,
+                "stars": 399,
                 "topics": [
                   "chatglm-6b",
                   "judicial",
@@ -1115,7 +1115,7 @@
             "open_issues": 0,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2855,
+            "stars": 2862,
             "topics": [
               "case-law",
               "citation-verification",
@@ -1154,7 +1154,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-01T10:09:28Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "stefanoamorelli",
             "repo": "sec-edgar-mcp",
             "stars": 387,
@@ -1254,7 +1254,7 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T12:06:49Z",
+            "last_commit": "2026-11-11T10:47:00Z",
             "open_issues": 7,
             "owner": "dealfluence",
             "repo": "adeu",
@@ -1414,7 +1414,7 @@
             "open_issues": 2,
             "owner": "agentic-ops",
             "repo": "legal-mcp",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1638,7 +1638,7 @@
             "id": 1174441422,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T19:03:26Z",
+            "last_commit": "2026-11-10T17:48:51Z",
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "vaquill-mcp",
@@ -2192,7 +2192,7 @@
             "id": 1248554754,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T19:37:24Z",
+            "last_commit": "2026-11-10T17:00:08Z",
             "open_issues": 1,
             "owner": "matematicsolutions",
             "repo": "awesome-matematic-skills-pl",
@@ -2238,11 +2238,11 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T00:44:45Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-11T07:14:06Z",
+            "open_issues": 71,
             "owner": "open-legal-products",
             "repo": "mike",
-            "stars": 4440,
+            "stars": 4451,
             "topics": [
               "legal-ai",
               "legal-tech"
@@ -2262,8 +2262,8 @@
             "id": 22257580,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T15:03:23Z",
-            "open_issues": 1116,
+            "last_commit": "2026-11-11T03:38:33Z",
+            "open_issues": 1114,
             "owner": "freelawproject",
             "repo": "courtlistener",
             "stars": 1067,
@@ -2330,7 +2330,7 @@
             "id": 1260997792,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T13:15:41Z",
+            "last_commit": "2026-11-10T21:57:47Z",
             "open_issues": 0,
             "owner": "sure-scale",
             "repo": "doc-haus",
@@ -2470,7 +2470,7 @@
                 "open_issues": 12,
                 "owner": "lawglance",
                 "repo": "lawglance",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "ai",
                   "assistance",
@@ -2593,7 +2593,7 @@
                 "id": 996902617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T03:19:35Z",
+                "last_commit": "2026-11-11T02:07:37Z",
                 "open_issues": 11,
                 "owner": "i-dot-ai",
                 "repo": "lex",
@@ -2683,7 +2683,7 @@
             "id": 1125472138,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T12:06:49Z",
+            "last_commit": "2026-11-11T10:47:00Z",
             "open_issues": 7,
             "owner": "dealfluence",
             "repo": "adeu",
@@ -2800,7 +2800,7 @@
             "open_issues": 0,
             "owner": "fayerman-source",
             "repo": "deslop",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -3014,7 +3014,7 @@
             "open_issues": 215,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 7244,
+            "stars": 7250,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3131,8 +3131,8 @@
             "id": 1288555137,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T11:18:58Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-11T13:00:41Z",
+            "open_issues": 13,
             "owner": "sebastianfoerste",
             "repo": "micar-whitepaper-linter",
             "stars": 0,
@@ -3170,7 +3170,7 @@
             "id": 1256016809,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-10T13:13:24Z",
+            "last_commit": "2026-11-10T19:06:33Z",
             "open_issues": 9,
             "owner": "clarvia-org",
             "repo": "clarvia-graph",
@@ -3259,7 +3259,7 @@
             "open_issues": 22,
             "owner": "HazyResearch",
             "repo": "legalbench",
-            "stars": 655,
+            "stars": 657,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -3416,7 +3416,28 @@
             "open_issues": 5,
             "owner": "CSHaitao",
             "repo": "LegalAgentBench",
-            "stars": 53,
+            "stars": 54,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:51:13.190Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LEXam",
+          "description": "[ICLR 2026] Bilingual EN/DE law-school exam benchmark: 7,537 questions from 340 exams across 116 courses, mixing IRAC reasoning and MCQs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICLR] This Repo provides code for evaluating LLMs on LEXam - a comprehensive benchmark evaluating AI system's legal reasoning ability with law exam questions, using both open and multiple-choice questions.",
+            "homepage": null,
+            "id": 979244478,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-01-30T11:40:24Z",
+            "open_issues": 3,
+            "owner": "LEXam-Benchmark",
+            "repo": "LEXam",
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -3445,27 +3466,6 @@
               "law",
               "mteb"
             ]
-          },
-          "first_seen": "2026-08-28T18:51:13.190Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LEXam",
-          "description": "[ICLR 2026] Bilingual EN/DE law-school exam benchmark: 7,537 questions from 340 exams across 116 courses, mixing IRAC reasoning and MCQs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ICLR] This Repo provides code for evaluating LLMs on LEXam - a comprehensive benchmark evaluating AI system's legal reasoning ability with law exam questions, using both open and multiple-choice questions.",
-            "homepage": null,
-            "id": 979244478,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-01-30T11:40:24Z",
-            "open_issues": 3,
-            "owner": "LEXam-Benchmark",
-            "repo": "LEXam",
-            "stars": 39,
-            "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
         },
@@ -3572,7 +3572,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 534650,
+            "stars": 535165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3621,7 +3621,7 @@
             "id": 614464281,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-10T14:23:10Z",
+            "last_commit": "2026-11-11T12:13:32Z",
             "open_issues": 1,
             "owner": "Jeryi-Sun",
             "repo": "LLM-and-Law",
@@ -3647,7 +3647,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-20T19:10:55Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "openlegaldata",
             "repo": "awesome-legal-data",
             "stars": 328,
@@ -3789,7 +3789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:03:48.045Z",
+    "last_updated": "2026-11-11T14:35:04.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
@@ -3801,7 +3801,7 @@
       "open_issues": 21,
       "owner": "Vaquill-AI",
       "repo": "awesome-legaltech",
-      "stars": 268,
+      "stars": 269,
       "topics": [
         "awesome",
         "awesome-list",
