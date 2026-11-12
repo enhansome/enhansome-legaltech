@@ -144,7 +144,7 @@
             "id": 1174441422,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:48:51Z",
+            "last_commit": "2026-11-11T20:39:34Z",
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "vaquill-mcp",
@@ -346,7 +346,7 @@
                 "id": 22757589,
                 "language": "HTML",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-10T15:47:56Z",
+                "last_commit": "2026-11-12T07:10:02Z",
                 "open_issues": 371,
                 "owner": "freelawproject",
                 "repo": "juriscraper",
@@ -376,7 +376,7 @@
                 "open_issues": 89,
                 "owner": "freelawproject",
                 "repo": "eyecite",
-                "stars": 301,
+                "stars": 302,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -393,7 +393,7 @@
                 "id": 1138989235,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T14:25:28Z",
+                "last_commit": "2026-11-12T15:26:22Z",
                 "open_issues": 30,
                 "owner": "AI-WorkDeck",
                 "repo": "aiworkdeck",
@@ -555,7 +555,7 @@
                 "open_issues": 23,
                 "owner": "allenai",
                 "repo": "s2orc",
-                "stars": 1095,
+                "stars": 1094,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -866,7 +866,7 @@
                 "open_issues": 4,
                 "owner": "The-Atticus-Project",
                 "repo": "maud",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -900,7 +900,7 @@
                 "open_issues": 66,
                 "owner": "PKU-YuanGroup",
                 "repo": "ChatLaw",
-                "stars": 7633,
+                "stars": 7631,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:51:13.190Z"
@@ -952,7 +952,7 @@
                 "open_issues": 31,
                 "owner": "FudanDISC",
                 "repo": "DISC-LawLLM",
-                "stars": 958,
+                "stars": 959,
                 "topics": [
                   "domain-llm",
                   "legal-intelligence",
@@ -978,7 +978,7 @@
                 "open_issues": 15,
                 "owner": "irlab-sdu",
                 "repo": "fuzi.mingcha",
-                "stars": 399,
+                "stars": 400,
                 "topics": [
                   "chatglm-6b",
                   "judicial",
@@ -1115,7 +1115,7 @@
             "open_issues": 0,
             "owner": "chrisryugj",
             "repo": "korean-law-mcp",
-            "stars": 2862,
+            "stars": 2867,
             "topics": [
               "case-law",
               "citation-verification",
@@ -1310,7 +1310,7 @@
             "open_issues": 1,
             "owner": "sboghossian",
             "repo": "master-claude-for-legal",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:13.190Z"
@@ -1590,7 +1590,7 @@
             "open_issues": 0,
             "owner": "maiconfuhr",
             "repo": "direito-familiar-imobiliario",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "claude-code",
               "claude-skill",
@@ -1638,7 +1638,7 @@
             "id": 1174441422,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:48:51Z",
+            "last_commit": "2026-11-11T20:39:34Z",
             "open_issues": 0,
             "owner": "Vaquill-AI",
             "repo": "vaquill-mcp",
@@ -2238,11 +2238,11 @@
             "id": 1224854794,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T07:14:06Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-11T17:39:45Z",
+            "open_issues": 78,
             "owner": "open-legal-products",
             "repo": "mike",
-            "stars": 4451,
+            "stars": 4460,
             "topics": [
               "legal-ai",
               "legal-tech"
@@ -2262,8 +2262,8 @@
             "id": 22257580,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T03:38:33Z",
-            "open_issues": 1114,
+            "last_commit": "2026-11-12T14:50:42Z",
+            "open_issues": 1091,
             "owner": "freelawproject",
             "repo": "courtlistener",
             "stars": 1067,
@@ -2593,7 +2593,7 @@
                 "id": 996902617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T02:07:37Z",
+                "last_commit": "2026-11-12T03:36:35Z",
                 "open_issues": 11,
                 "owner": "i-dot-ai",
                 "repo": "lex",
@@ -2747,8 +2747,8 @@
             "id": 323679025,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T03:12:56Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-12T03:42:48Z",
+            "open_issues": 80,
             "owner": "SuffolkLITLab",
             "repo": "docassemble-AssemblyLine",
             "stars": 73,
@@ -2800,7 +2800,7 @@
             "open_issues": 0,
             "owner": "fayerman-source",
             "repo": "deslop",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -3014,7 +3014,7 @@
             "open_issues": 215,
             "owner": "OpenSignLabs",
             "repo": "OpenSign",
-            "stars": 7250,
+            "stars": 7254,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -3131,7 +3131,7 @@
             "id": 1288555137,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T13:00:41Z",
+            "last_commit": "2026-11-12T06:56:36Z",
             "open_issues": 13,
             "owner": "sebastianfoerste",
             "repo": "micar-whitepaper-linter",
@@ -3170,7 +3170,7 @@
             "id": 1256016809,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-10T19:06:33Z",
+            "last_commit": "2026-11-12T12:42:24Z",
             "open_issues": 9,
             "owner": "clarvia-org",
             "repo": "clarvia-graph",
@@ -3572,7 +3572,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 535165,
+            "stars": 535743,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3650,7 +3650,7 @@
             "open_issues": 32,
             "owner": "openlegaldata",
             "repo": "awesome-legal-data",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "datasets",
               "legal",
@@ -3758,7 +3758,7 @@
             "open_issues": 0,
             "owner": "saidsurucu",
             "repo": "yargi-mcp",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-10-28T13:15:34.971Z"
@@ -3789,7 +3789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:35:04.795Z",
+    "last_updated": "2026-11-12T15:26:47.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome LegalTech resources - open source platforms, AI models, MCP servers, companies, datasets, and tools for the global legal ecosystem.",
@@ -3801,7 +3801,7 @@
       "open_issues": 21,
       "owner": "Vaquill-AI",
       "repo": "awesome-legaltech",
-      "stars": 269,
+      "stars": 270,
       "topics": [
         "awesome",
         "awesome-list",
